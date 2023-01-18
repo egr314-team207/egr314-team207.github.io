@@ -4,7 +4,7 @@ title: EGR 314 Project
 
 # EGR 314 Spring 2023
 
-# Editors: Ragde Chaira, Stefano Greco, Daymon Wilkins,  Hector Peralta
+# Editors: Ragde Chaira, Stefano Greco, Hector Peralta, Daymon Wilkins
 ## Introduction
 
 **Bold Text**
