@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# Home
+# Team 207 
+
+## Editors: Daymon Wilkins, Stefano Greco, Radge Chaira, Hector Peralta
 
 ## Introduction
 
