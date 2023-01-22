@@ -1,6 +1,5 @@
 ---
-Title: 
-* Life Improvement
+Title: Life Improvement
 ---
 ---
 # Team 207 
