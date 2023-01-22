@@ -32,6 +32,11 @@ To achieve this goal, the team is committed to putting forth significant time an
 ## User Needs, Benchmarking, and Requirements
 
 
+
+## Design Ideation
+
+
+
 ## Background
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
