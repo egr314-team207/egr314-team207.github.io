@@ -1,5 +1,5 @@
 ---
-User Needs, Benchmarking, & Ideation
+title: Appendix B User Needs, Benchmarking, & Ideation
 ---
 ## Introduction
 
@@ -283,3 +283,7 @@ Design aspects:
       * Customization: The user can set a desired output so that the product adjusts to the user's needs. The product can also come in different sizes and colors depending on the user preference.
       * Manufacturing: the product will be made through a unique Printed Circuit Board that fits the sensors and actuators used in the product. There will be a casing to protect all components and make it easier to install.
       * Safety: Product will use correct seals if dealing with water to prevent hazards. Also will keep electrical components secured within a solid zone to prevent shortages and prevent dangerous environments. Cords or power supply will have proper hardware to ensure no user is electrocuted.
+
+[Back to User Needs, Benchmarking, and Requirements](/UserNeeds.md)
+
+[Back to Project Overview Page](/index.md)
