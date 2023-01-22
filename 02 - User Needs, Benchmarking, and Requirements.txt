@@ -1,11 +1,11 @@
-﻿EGR 314 18748
-Team 207
-1/18/2023
-User Needs, Benchmarking, & Requirements
-Introduction:
+# User Needs, Benchmarking, & Requirements
+## Introduction:
+
 Our team has been tasked with a solution to counteract environmental conditions that can be solved using sensors and hardware components. We have analyzed existing products in the field of our project. From these products we have determined what customers prefer and what customers need. We have brainstormed a list of user needs that our product should meet.
-Product Benchmarking
-Selected products:
+
+##  Product Benchmarking
+
+**Selected products:**
 1: Ambient Weather WS-2902 WiFi Smart Weather Station 
   
 
