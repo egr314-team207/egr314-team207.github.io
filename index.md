@@ -5,7 +5,7 @@ title: EGR 314 Project
 # EGR 314 Spring 2023
 
 # Team Members: Ragde Chaira, Stefano Greco, Hector Peralta, Daymon Wilkins
-# 
+
 ![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
 # Professor Daniel Aukes
 ## Introduction
