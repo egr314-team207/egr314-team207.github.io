@@ -4,9 +4,9 @@ title: EGR 314 Project
 
 # Team 207 
 ## Members: Daymon Wilkins, Stefano Greco, Radge Chaira, Hector Peralta
-
-![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
 # Professor Daniel Aukes
+![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
+
 ## Team Organization
 
 ### Team Charter
