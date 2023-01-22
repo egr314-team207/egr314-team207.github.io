@@ -7,9 +7,9 @@ Title: Life Improvement
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+**Arizona State University**
+**EGR 314 18748**
+**Professor: Daniel Aukes**
 
 ## Research Question
 
