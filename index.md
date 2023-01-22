@@ -7,13 +7,13 @@ title: EGR 314 Project
 # Professor Daniel Aukes
 ![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
 
-## [Team Organization](/Team207/TeamOrgnization.md)
+## [Team Organization](/TeamOrganization.md)
 
 ## [User Needs, Benchamrking, and Requirments](/UserNeeds.md)
 
-## [Design Ideation](/Team207/DesignIdeation.md)
+## [Design Ideation](/TeamOrganization.md)
 
-## [Presentation 1](/Team207/Presentation1.md)
+## [Presentation 1](/Presentation1.md)
 
 ## External Links
 
@@ -29,7 +29,7 @@ title: EGR 314 Project
 
 ## Appendix Sections
 
-[Appendix A: Team Organization](/Team207/AppendixA_TeamOrganzation.md)
+[Appendix A: Team Organization](/AppendixA_TeamOrganization.md)
 
-[Appendix B: User Needs, Benchmarking, and Requirments](/Team207/AppedixB_UserNeeds_Benchmarking_Requirments.md) 
+[Appendix B: User Needs, Benchmarking, and Requirments](/AppendixB_UserNeeds_Benchmarking_Requirments.md) 
 
