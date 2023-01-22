@@ -33,6 +33,6 @@ the product will be made through a unique Printed Circuit Board that fits the se
 
  Product will use correct seals if dealing with water to prevent hazards. Also will keep electrical components secured within a solid zone to prevent shortages and prevent dangerous environments. Cords or power supply will have proper hardware to ensure no user is electrocuted.
 
- [Appendix B: User Needs, Benchmarking, and Requirments](/AppendixB_UserNeeds_Benchmarking_Requirments.md)
+ [Appendix B: User Needs, Benchmarking, and Requirments](/Team207/AppendixB_UserNeeds_Benchmarking_Requirments.md)
 
- [Back to Project Overview Page](/index.md)
+ [Back to Project Overview Page](/Team207/index.md)
