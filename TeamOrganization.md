@@ -52,7 +52,10 @@ The team will work together to get assignments done, it is expected by team memb
 
 ## Team 207 Signatures
 X__Hector Peralta__
+
 X__Ragde Chaira__
+
 X__Stefano Greco__
+
 X__Daymon Wilkins__
 
