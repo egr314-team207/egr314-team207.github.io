@@ -5,7 +5,7 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 ##  Product Benchmarking
 
-**Selected products:**
+**Selected products:
 1: Ambient Weather WS-2902 WiFi Smart Weather Station 
   
 
