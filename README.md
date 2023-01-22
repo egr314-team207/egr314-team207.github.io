@@ -1,7 +1,8 @@
 ---
-Title: EGR 314 Project 
+Title: 
+* Life Improvement
 ---
-
+---
 # Team 207 
 ## Members: Daymon Wilkins, Stefano Greco, Radge Chaira, Hector Peralta
 
