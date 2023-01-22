@@ -1,5 +1,5 @@
 ---
-title: Home
+title: EGR 314 Project Site
 ---
 
 # Team 207 
@@ -10,7 +10,6 @@ title: Home
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
-This project
 
 ## Research Question
 
