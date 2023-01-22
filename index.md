@@ -67,9 +67,6 @@ the product will be made through a unique Printed Circuit Board that fits the se
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
-
-
 [Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
 
 [User Needs,Benchmarking,Requirements](https://docs.google.com/document/d/1Q-Mk1Iff0SsWfN9Rt0p_gPa4DlcKJiR9xMkjAW__YpM)
