@@ -9,7 +9,7 @@ title: EGR 314 Project
 
 ## [Team Organization](/Team207/TeamOrgnization.md)
 
-## [User Needs, Benchamrking, and Requirments](/Team207/UserNeeds.md)
+## [User Needs, Benchamrking, and Requirments](/UserNeeds.md)
 
 ## [Design Ideation](/Team207/DesignIdeation.md)
 
@@ -30,5 +30,6 @@ title: EGR 314 Project
 ## Appendix Sections
 
 [Appendix A: Team Organization](/Team207/AppendixA_TeamOrganzation.md)
+
 [Appendix B: User Needs, Benchmarking, and Requirments](/Team207/AppedixB_UserNeeds_Benchmarking_Requirments.md) 
 
