@@ -5,11 +5,11 @@ Title: Life Improvement 1/22/2023
 # Team 207 
 ## Members: Daymon Wilkins, Stefano Greco, Radge Chaira, Hector Peralta
 
-## Introduction
+## School Information
 
-**Arizona State University**
+**University: Arizona State University**
 
-**EGR 314 18748**
+**Class: EGR 314 18748**
 
 **Professor: Daniel Aukes**
 
