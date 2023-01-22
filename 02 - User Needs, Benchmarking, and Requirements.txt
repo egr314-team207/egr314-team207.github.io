@@ -1,20 +1,22 @@
-# User Needs, Benchmarking, & Requirements
-## Introduction:
+---
+User Needs, Benchmarking, & Ideation
+---
+## Introduction
 
 Our team has been tasked with a solution to counteract environmental conditions that can be solved using sensors and hardware components. We have analyzed existing products in the field of our project. From these products we have determined what customers prefer and what customers need. We have brainstormed a list of user needs that our product should meet.
 
 ##  Product Benchmarking
 
 **Selected products:
-1: Ambient Weather WS-2902 WiFi Smart Weather Station 
-  
 
+1: Ambient Weather WS-2902 WiFi Smart Weather Station 
 * Price: $189.99
 * Vendor: Amazon
 * Description: A device that allows users to monitor weather conditions through wind speed/direction, temperature, humidity, rainfall, UV and solar radiation. This data is transmitted wirelessly to Wi-Fi to your phone or tablet.
 
 
 Product Review:
+
 Positive Comments
 Customer Comments
 	Restated Customer Needs
@@ -27,6 +29,7 @@ Customer Comments
 	
 
 Negative Comments
+
 Customer Comments
 	Restated Customer Needs
 	I do not like that the weather station has a difficult time connecting to a mesh based home wifi system. It is recommended that you "turn off" all but your main puck and try to connect. This has not worked for me.
@@ -40,14 +43,7 @@ Customer Comments
 
 
 	
-
-
-
 2: Home Alkaline Water Filtration System
-  
-
-
-
 * Price: $934.99
 * Vendor: Amazon
 * Description: Has 7 different types of options for how water will be outputted, 1 non-ionized purified, 4 alkaline ionized continuously variable, 2 ionized acidic presets. The range of pH is from 4.5 to 10 and allows for uses regarding cleaning, cooking, drinking, ect. Self maintains itself so after 10 gallons it auto plate washing and reverses polarity. 
@@ -82,10 +78,6 @@ Keywords: “plant blankets freeze protection”
 Search Results Link: https://www.amazon.com/s?k=plant+blankets+freeze+protection&sprefix=plant+blanket%2Caps%2C152&ref=nb_sb_ss_ts-doa-p_2_13 
 
 
-
-
-
-
 3. the Planket
    
 * Price $20.98
@@ -106,15 +98,10 @@ Voice of the Customer
 * Offers enough protection (Explicit)
 
 
-
-
 	“I recently had some crape myrtles pkanted. I wanted to make sure they did not when them temp was supposed to get down in the 20s. They were large enough and easy to use.“ 
 	* Large enough to cover plants (Explicit)
 * Easy to use (Explicit)
 	
-
-
-
 
 
 
@@ -264,17 +251,6 @@ Customer Comments
 	
 
 
-
-
-
-
-
-
-
-
-
-
-
 ________________
 
 
@@ -284,41 +260,12 @@ Organizing User Needs:
    1. Rough breakdown of user needs based on customer reviews. This was done through a jamboard and identifying keywords or concepts that were present in the reviews. 
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
    2. Grouping needs into subcategories based on key concepts.
 
-  
-
+ 
 
    3. Ranking needs in a priority system of importance, where the lower number is more important to the final design.
-
 
 
   
