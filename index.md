@@ -11,7 +11,7 @@ title: EGR 314 Project
 
 ## [User Needs, Benchamrking, and Requirments](/UserNeeds.md)
 
-## [Design Ideation](/TeamOrganization.md)
+## [Design Ideation](/DesignIdeation.md)
 
 ## [Presentation 1](/Presentation1.md)
 
