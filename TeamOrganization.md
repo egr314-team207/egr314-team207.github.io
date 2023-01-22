@@ -1,5 +1,5 @@
 ---
-title: Team Organization
+Team Organization
 ---
 #Team Charter
 
