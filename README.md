@@ -8,7 +8,9 @@ Title: Life Improvement
 ## Introduction
 
 **Arizona State University**
+
 **EGR 314 18748**
+
 **Professor: Daniel Aukes**
 
 ## Research Question
