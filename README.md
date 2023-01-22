@@ -1,5 +1,5 @@
 ---
-title: EGR 314 Project Site
+Title: EGR 314 Project 
 ---
 
 # Team 207 
