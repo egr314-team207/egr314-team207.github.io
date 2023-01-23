@@ -9,8 +9,6 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 All product reviews were from Amazon.com, the reviews are direct quotes from users. 
 
-**Selected products:
-
 ### 1: Ambient Weather WS-2902 WiFi Smart Weather Station 
 * Price: $189.99
 * Vendor: Amazon
@@ -24,40 +22,37 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 |"All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase."|<ul><li>Information is easily accessible and legible</li></ul>|
 |"Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures."|<ul><li>Installation of weather deceive was simple</li></ul>|
 |"as described no problems"|<ul><li>performed just as advertised</ul></li>|
-	
-	
+		
+<ul><li></li><li></li></ul>
 
 #### Negative Comments
 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|> I do not like that the weather station has a difficult time connecting to a mesh based home wifi system. It is recommended that you "turn off" all but your main puck and try to connect. This has not worked for me.|<ul><li>Difficulty connecting to Wi-Fi</li><li>Problems with Setup of deceive</li></ul>|
-|> Called tech service 3 times the two days I have had this. On each call the hold time was over twenty minutes. The console is very hard to see in daylight. But-the biggest issue is the console keeps loosing power and resetting itself. I’m hoping replacement unit is better.|* Poor technical support * Power issues|
-|> I do very much like this weather station, however, my array (the outside part) failed after 378 days (just barely over the one year warranty). That's FAR too short a time for something like this this to last. I am NOT in a harsh environment|* Durability issues|
+|"I do not like that the weather station has a difficult time connecting to a mesh based home wifi system. It is recommended that you "turn off" all but your main puck and try to connect. This has not worked for me."|<ul><li>Difficulty connecting to Wi-Fi</li><li>Problems with Setup of deceive</li></ul>|
+|"Called tech service 3 times the two days I have had this. On each call the hold time was over twenty minutes. The console is very hard to see in daylight. But-the biggest issue is the console keeps loosing power and resetting itself. I’m hoping replacement unit is better."|<ul><li>Poor technical support</li><li>Power issues</li></ul>|
+|"I do very much like this weather station, however, my array (the outside part) failed after 378 days (just barely over the one year warranty). That's FAR too short a time for something like this this to last. I am NOT in a harsh environment"|<ul><li>Durability issues</li></ul>|
 
 
 	
-2: Home Alkaline Water Filtration System
+### 2: Home Alkaline Water Filtration System
 * Price: $934.99
 * Vendor: Amazon
 * Description: Has 7 different types of options for how water will be outputted, 1 non-ionized purified, 4 alkaline ionized continuously variable, 2 ionized acidic presets. The range of pH is from 4.5 to 10 and allows for uses regarding cleaning, cooking, drinking, ect. Self maintains itself so after 10 gallons it auto plate washing and reverses polarity. 
-Product Reviews:
-Positive Comments
-Customer Reviews
-	Restated Customer Needs
-	Been using this for the last 6 months and the biggest difference I’ve seen is in my skin. I’ve always struggle with acne and breakouts even at 30 years old, and ever since I’ve started using this machine my skin has never looked better.
-	* Helped with personal health and appearance
-	I have done a lot of research on water electrolysis and this product is the perfect quality product at an amazing price point. What differentiates this company from the competition is the amazing customer service. I had some electrical issues after two years of ph adjusted water and one phone call with Mason fixed all my issues with this quality machine. He was patient and walked me through the whole troubleshooting and maintenance process that fixed a machine I thought might be defective.
-	* Great quality and price point
-* To fix/maintain device was easy with assistance
-	The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.
-	* Works as advertised
-* Seals have gone bad
+### Product Reviews:
+#### Positive Comments
+
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
+|Been using this for the last 6 months and the biggest difference I’ve seen is in my skin. I’ve always struggle with acne and breakouts even at 30 years old, and ever since I’ve started using this machine my skin has never looked better.|<ul><li>Helped with personal health and appearance</li></ul>|
+|I have done a lot of research on water electrolysis and this product is the perfect quality product at an amazing price point. What differentiates this company from the competition is the amazing customer service. I had some electrical issues after two years of ph adjusted water and one phone call with Mason fixed all my issues with this quality machine. He was patient and walked me through the whole troubleshooting and maintenance process that fixed a machine I thought might be defective.|<ul><li>Great quality and price point</li><li>To fix/maintain device was easy with assistance</li></ul>|
+|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Works as advertised</li><li>Seals have gone bad</li></ul>
+
 	
 
-Negative Comments
-Customer reviews
-	Restated Customer Needs
+#### Negative Comments
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
 	The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.
 	* Leak and seal issues
 * Low modifications
@@ -78,11 +73,11 @@ Search Results Link: https://www.amazon.com/s?k=plant+blankets+freeze+protection
 * Vendor: Amazon
 * Description: Plant blanket that helps protect your valuable plants from frost, sleet, snow, and cold winds. 
 Product Reviews:
-Positive Comments 
 
+#### Positive Comments 
 
-Voice of the Customer
-	Restated Customer Need
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
 	“We always purchase these covers to protect our plants from frost. These do a great job. They're also easy to fold and use. They're also light weight while at the same time being strong. We are very satisfied with the price as well. Recommend.”
 	* Easy to store (Explicit)
 * Easy to install (Explicit)
