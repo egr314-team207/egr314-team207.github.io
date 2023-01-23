@@ -284,6 +284,6 @@ Design aspects:
       * Manufacturing: the product will be made through a unique Printed Circuit Board that fits the sensors and actuators used in the product. There will be a casing to protect all components and make it easier to install.
       * Safety: Product will use correct seals if dealing with water to prevent hazards. Also will keep electrical components secured within a solid zone to prevent shortages and prevent dangerous environments. Cords or power supply will have proper hardware to ensure no user is electrocuted.
 
-[Back to User Needs, Benchmarking, and Requirements](team207-github-io.github.io/Team207/UserNeeds.md)
+[Back to User Needs, Benchmarking, and Requirements](UserNeeds.md)
 
-[Back to Project Overview Page](team207-github-io.github.io/Team207/index.md)
+[Back to Project Overview Page](index.md)
