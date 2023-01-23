@@ -119,50 +119,34 @@ Product Link
 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-	“I generally manage to kill house plants but this device gives me an automatic green thumb. The water reservoir eliminates the need to remember to water it; the grow light eliminates the need for direct sunlight.”
-	   * No need to remember to water plants
-   * Grow light eliminates need of sunlight
-	This product was a great introduction to gardening. I have since transplanted my chili peppers to proper pots, and take care of them myself. Click and Grow was almost like a gateway... I am a gardening nut now. But even so, I still use the Click and Grow as a starter. It's great for nurturing seedlings, and cloning (propagation).
-	   * Great for beginners 
-   * Great for nurturing
-	It was easy to assemble and is well on its way to growing plants.
-	   * Easy to use
-   * Great to grow plants
-	
-
+|“I generally manage to kill house plants but this device gives me an automatic green thumb. The water reservoir eliminates the need to remember to water it; the grow light eliminates the need for direct sunlight.”|<ul><li>No need to remember to water plants</li><li>Grow light eliminates need of sunlight</li></ul>|
+|"This product was a great introduction to gardening. I have since transplanted my chili peppers to proper pots, and take care of them myself. Click and Grow was almost like a gateway... I am a gardening nut now. But even so, I still use the Click and Grow as a starter. It's great for nurturing seedlings, and cloning (propagation)."|<ul><li>Great for beginners<li></li>Great for nurturing</li></ul>|
+|"It was easy to assemble and is well on its way to growing plants."|<ul><li>Easy to use</li><li>Great to grow plants</li></ul>|
 
 
 #### Negative comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-	This is my second time growing(six pods total) and each time they are covered in mold. I reached out to the company and they say it’s normal however; it is gross. The entire bottom and stem of the vegetables are covered in white mold. I cannot keep using this. Extremely disappointed
-	   * High maintenance 
-   * Not great to grow plants inside
-	The product should not be considered a 'smart' product - the light is on a 16 hour timer and that's it. No ability to adjust the timer or monitor anything about the planter.
-	   * Not smart, just a set time
-   * Not versatile depending on plant
-	I followed the instruction very carefully but unfortunately I had to transplant the seedlings as they were dying. They never ran out of water or light. I have other pods to plant but I am not sure they also will wither and eventually die. I may also have to transplant them(!). I epuld not recommend buying these.
-	   * Not great to grow plants
-   * Needs to be tranplanted
-	
-
+|"This is my second time growing(six pods total) and each time they are covered in mold. I reached out to the company and they say it’s normal however; it is gross. The entire bottom and stem of the vegetables are covered in white mold. I cannot keep using this. Extremely disappointed"|<ul><li>High maintenance </li><li>Not great to grow plants inside</li></ul>|
+|The product should not be considered a 'smart' product - the light is on a 16 hour timer and that's it. No ability to adjust the timer or monitor anything about the planter.|<ul><li>Not smart, just a set time</li><li>Not versatile depending on plant</li></ul>|
+|I followed the instruction very carefully but unfortunately I had to transplant the seedlings as they were dying. They never ran out of water or light. I have other pods to plant but I am not sure they also will wither and eventually die. I may also have to transplant them(!). I epuld not recommend buying these.|<ul><li>Not great to grow plants</li><li>Needs to be tranplanted</li></ul>|
 
 ________________
 
 
-Organizing User Needs:
+### Organizing User Needs:
 
 
    1. Rough breakdown of user needs based on customer reviews. This was done through a jamboard and identifying keywords or concepts that were present in the reviews. 
-
+![image](https://cdn.discordapp.com/attachments/1062096006642147503/1067104775004500070/image.png)
 
 
    2. Grouping needs into subcategories based on key concepts.
-
+![image](https://cdn.discordapp.com/attachments/1062096006642147503/1067104836950184056/image.png)
  
 
    3. Ranking needs in a priority system of importance, where the lower number is more important to the final design.
-
+![image](https://cdn.discordapp.com/attachments/1062096006642147503/1067104893833334846/image.png)
 
   
 
