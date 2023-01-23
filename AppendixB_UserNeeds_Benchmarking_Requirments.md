@@ -15,8 +15,8 @@ Our team has been tasked with a solution to counteract environmental conditions 
 * Description: A device that allows users to monitor weather conditions through wind speed/direction, temperature, humidity, rainfall, UV and solar radiation. This data is transmitted wirelessly to Wi-Fi to your phone or tablet.
 
 
-Product Review:
-Positive Comments
+### Product Review:
+#### Positive Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
 |All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase.|* Information is easily accessible and legible|
