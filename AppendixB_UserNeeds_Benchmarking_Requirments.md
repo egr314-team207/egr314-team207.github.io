@@ -84,7 +84,7 @@ Product Reviews:
 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.<ul><li></li><li></li></ul>
+|“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.
 
 
 This one comes with rings at the corner of the "planket" so you can secure it via pegs, or hooks etc. Those pegs are supplied separately.
