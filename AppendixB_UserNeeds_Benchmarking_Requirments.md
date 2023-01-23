@@ -80,21 +80,9 @@ Product Reviews:
 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.
-This one comes with rings at the corner of the "planket" so you can secure it via pegs, or hooks etc. Those pegs are supplied separately.
-Unfortunately the rings easily get torn out of the material when there is gusting winds of 10mph or more.
-TIP: Don't use this as a ground sheet for weeds.”|<ul><li>Remove product when sun is out and temperatures are above freezing (Latent)</li><li>Survive winds (Explicit)</li><li>Allow plants access to natural light (Explicit)</li></ul>|
-|“Pro- very easy to install.
-Cons- not durable in wind, grommets easily detach
-This thing has already been ripped out of its grommets 2x. I resecured it, and it still is ripping up. We are having winds of 15-20 mph and it’s expected to ice over later. I guess whatever’s under the cover will live and the rest I will replace.
-Maybe in a light snow where there’s not a lot of wind this would be great.
-I don’t usually get snow, I got it for frost/ice. Likely returning.”|<ul><li>Survive winds (Explicit)</li><li>Durable (Explicit)</li><li>Work with a range of weather conditions (Explicit)</li></ul>|
-|“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died.
-
-
-On top of all of that, already has multiple tears as well after only a week and several of the plastic rings for staking down the sheet have come out. The ring placement is also not consistent throughout the entire sheet so there's just huge gaps that still have to have rocks put on them to prevent additional damage to plants, or to prevent a spot for wind to catch it and completely rip the entire sheet our of the ground.
-
-As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
+|“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.This one comes with rings at the corner of the "planket" so you can secure it via pegs, or hooks etc. Those pegs are supplied separately.Unfortunately the rings easily get torn out of the material when there is gusting winds of 10mph or more. TIP: Don't use this as a ground sheet for weeds.”|<ul><li>Remove product when sun is out and temperatures are above freezing (Latent)</li><li>Survive winds (Explicit)</li><li>Allow plants access to natural light (Explicit)</li></ul>|
+|“Pro- very easy to install.Cons- not durable in wind, grommets easily detach. This thing has already been ripped out of its grommets 2x.I resecured it, and it still is ripping up. We are having winds of 15-20 mph and it’s expected to ice over later. I guess whatever’s under the cover will live and the rest I will replace. Maybe in a light snow where there’s not a lot of wind this would be great. I don’t usually get snow, I got it for frost/ice. Likely returning.”|<ul><li>Survive winds (Explicit)</li><li>Durable (Explicit)</li><li>Work with a range of weather conditions (Explicit)</li></ul>|
+|“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died. On top of all of that, already has multiple tears as well after only a week and several of the plastic rings for staking down the sheet have come out. The ring placement is also not consistent throughout the entire sheet so there's just huge gaps that still have to have rocks put on them to prevent additional damage to plants, or to prevent a spot for wind to catch it and completely rip the entire sheet our of the ground. As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
 
 
 ###4. EcoQube Greenhouse
