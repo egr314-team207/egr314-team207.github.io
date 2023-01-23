@@ -11,7 +11,7 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 
 **Selected products:
 
-1: Ambient Weather WS-2902 WiFi Smart Weather Station 
+### 1: Ambient Weather WS-2902 WiFi Smart Weather Station 
 * Price: $189.99
 * Vendor: Amazon
 * Description: A device that allows users to monitor weather conditions through wind speed/direction, temperature, humidity, rainfall, UV and solar radiation. This data is transmitted wirelessly to Wi-Fi to your phone or tablet.
@@ -21,9 +21,9 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 #### Positive Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|"All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase."|* Information is easily accessible and legible|
-|"Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures."|* Installation of weather deceive was simple|
-|"as described no problems"|* performed just as advertised|
+|"All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase."|<ul><li>Information is easily accessible and legible</li></ul>|
+|"Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures."|<ul><li>Installation of weather deceive was simple</li></ul>|
+|"as described no problems"|<ul><li>performed just as advertised</ul></li>|
 	
 	
 
