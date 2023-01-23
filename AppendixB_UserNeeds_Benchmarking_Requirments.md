@@ -46,7 +46,7 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 |-----|-----|
 |Been using this for the last 6 months and the biggest difference I’ve seen is in my skin. I’ve always struggle with acne and breakouts even at 30 years old, and ever since I’ve started using this machine my skin has never looked better.|<ul><li>Helped with personal health and appearance</li></ul>|
 |I have done a lot of research on water electrolysis and this product is the perfect quality product at an amazing price point. What differentiates this company from the competition is the amazing customer service. I had some electrical issues after two years of ph adjusted water and one phone call with Mason fixed all my issues with this quality machine. He was patient and walked me through the whole troubleshooting and maintenance process that fixed a machine I thought might be defective.|<ul><li>Great quality and price point</li><li>To fix/maintain device was easy with assistance</li></ul>|
-|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Works as advertised</li><li>Seals have gone bad</li></ul>
+|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Works as advertised</li><li>Seals have gone bad</li></ul>|
 
 	
 
