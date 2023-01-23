@@ -27,16 +27,11 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 Negative Comments
 
-Customer Comments
-	Restated Customer Needs
-	I do not like that the weather station has a difficult time connecting to a mesh based home wifi system. It is recommended that you "turn off" all but your main puck and try to connect. This has not worked for me.
-	* Difficulty connecting to Wi-Fi
-* Problems with Setup of deceive 
-	Called tech service 3 times the two days I have had this. On each call the hold time was over twenty minutes. The console is very hard to see in daylight. But-the biggest issue is the console keeps loosing power and resetting itself. I’m hoping replacement unit is better.
-	* Poor technical support
-* Power issues
-	I do very much like this weather station, however, my array (the outside part) failed after 378 days (just barely over the one year warranty). That's FAR too short a time for something like this this to last. I am NOT in a harsh environment
-	* Durability issues
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
+|I do not like that the weather station has a difficult time connecting to a mesh based home wifi system. It is recommended that you "turn off" all but your main puck and try to connect. This has not worked for me.|* Difficulty connecting to Wi-Fi * Problems with Setup of deceive |
+|Called tech service 3 times the two days I have had this. On each call the hold time was over twenty minutes. The console is very hard to see in daylight. But-the biggest issue is the console keeps loosing power and resetting itself. I’m hoping replacement unit is better.|* Poor technical support * Power issues|
+|I do very much like this weather station, however, my array (the outside part) failed after 378 days (just barely over the one year warranty). That's FAR too short a time for something like this this to last. I am NOT in a harsh environment|* Durability issues|
 
 
 	
