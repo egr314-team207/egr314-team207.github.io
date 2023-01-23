@@ -53,14 +53,10 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 #### Negative Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-	The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.
-	* Leak and seal issues
-* Low modifications
-	Amount of money paid to own the machine is not worth it at all!
-	* overpriced
-	My natural water ph is 8.5. This only makes it max 9.5 and a low of 8.1! Total junk, fraud and now after multiple wayer testers oh strips know it’s the machine. Do not waster your money on this
-	* Not functioning as advertised
-	
+|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Leak and seal issues</li>Low modifications<li></li><li></li></ul>|
+|Amount of money paid to own the machine is not worth it at all!|<ul><li>overpriced</li></ul>|
+|My natural water ph is 8.5. This only makes it max 9.5 and a low of 8.1! Total junk, fraud and now after multiple wayer testers oh strips know it’s the machine. Do not waster your money on this|<ul><li>Not functioning as advertised</li></ul>|
+
 
 Search #
 Keywords: “plant blankets freeze protection”
@@ -78,28 +74,17 @@ Product Reviews:
 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-	“We always purchase these covers to protect our plants from frost. These do a great job. They're also easy to fold and use. They're also light weight while at the same time being strong. We are very satisfied with the price as well. Recommend.”
-	* Easy to store (Explicit)
-* Easy to install (Explicit)
-* Affordable (Explicit)
-	“It won't completely shelter them if there is a wind and cold temperatures for a long length of time, but it will help. We have vegetable plants. I'll harvest what I can but they usually give a bit more time before the plants are done for... and then I can start again in the spring. But for my winter vegetables - lettuce, peas etc., they do offer enough protection.” 
-	* Shelter plants for long time (Explicit)
-* Offers enough protection (Explicit)
+|“We always purchase these covers to protect our plants from frost. These do a great job. They're also easy to fold and use. They're also light weight while at the same time being strong. We are very satisfied with the price as well. Recommend.”|<ul><li>Easy to store (Explicit)</li><li>Easy to install(Explicit)</li><li>Affordable (Explicit)</li></ul>|
+|“It won't completely shelter them if there is a wind and cold temperatures for a long length of time, but it will help. We have vegetable plants. I'll harvest what I can but they usually give a bit more time before the plants are done for... and then I can start again in the spring. But for my winter vegetables - lettuce, peas etc., they do offer enough protection.” |<ul><li>Shelter plants for long time (Explicit)</li><li>Offers enough protection (Explicit)</li></ul>|
+|“I recently had some crape myrtles pkanted. I wanted to make sure they did not when them temp was supposed to get down in the 20s. They were large enough and easy to use.“ |<ul><li>Large enough to cover plants (Explicit)</li><li>Easy to use (Explicit)</li></ul>|
 
 
-	“I recently had some crape myrtles pkanted. I wanted to make sure they did not when them temp was supposed to get down in the 20s. They were large enough and easy to use.“ 
-	* Large enough to cover plants (Explicit)
-* Easy to use (Explicit)
-	
+#### Negative Comments
 
 
-
-Negative Comments
-
-
-Voice of the Customer
-	Restated Customer Need
-	“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
+|“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.<ul><li></li><li></li></ul>
 
 
 This one comes with rings at the corner of the "planket" so you can secure it via pegs, or hooks etc. Those pegs are supplied separately.
@@ -108,11 +93,8 @@ This one comes with rings at the corner of the "planket" so you can secure it vi
 Unfortunately the rings easily get torn out of the material when there is gusting winds of 10mph or more.
 
 
-TIP: Don't use this as a ground sheet for weeds.”
-	* Remove product when sun is out and temperatures are above freezing (Latent)
-* Survive winds (Explicit)
-* Allow plants access to natural light (Explicit)
-	“Pro- very easy to install.
+TIP: Don't use this as a ground sheet for weeds.”|<ul><li>Remove product when sun is out and temperatures are above freezing (Latent)</li><li>Survive winds (Explicit)</li><li>Allow plants access to natural light (Explicit)</li></ul>|
+|“Pro- very easy to install.
 Cons- not durable in wind, grommets easily detach
 
 
@@ -122,22 +104,16 @@ This thing has already been ripped out of its grommets 2x. I resecured it, and i
 Maybe in a light snow where there’s not a lot of wind this would be great.
 
 
-I don’t usually get snow, I got it for frost/ice. Likely returning.”
-	* Survive winds (Explicit)
-* Durable (Explicit)
-* Work with a range of weather conditions (Explicit)
+I don’t usually get snow, I got it for frost/ice. Likely returning.”|<ul><li>Survive winds (Explicit)</li><li>Durable (Explicit)</li><li>Work with a range of weather conditions (Explicit)</li></ul>|
 
 
-	“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died.
+|“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died.
 
 
 On top of all of that, already has multiple tears as well after only a week and several of the plastic rings for staking down the sheet have come out. The ring placement is also not consistent throughout the entire sheet so there's just huge gaps that still have to have rocks put on them to prevent additional damage to plants, or to prevent a spot for wind to catch it and completely rip the entire sheet our of the ground.
 
 
-As I said, no plants completely died but this is not a good product.“
-	* Protect plants from freezing (Explicit)
-* Durable (Explicit)
-* Adhere to advertised features (Explicit)
+As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
 
 
 	4. EcoQube Greenhouse
