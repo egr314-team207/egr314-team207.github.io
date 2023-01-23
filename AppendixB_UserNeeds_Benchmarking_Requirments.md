@@ -53,17 +53,13 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 #### Negative Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Leak and seal issues</li>Low modifications<li></li></ul>|
+|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Leak and seal issues</li><li>Low modifications</li></ul>|
 |Amount of money paid to own the machine is not worth it at all!|<ul><li>overpriced</li></ul>|
 |My natural water ph is 8.5. This only makes it max 9.5 and a low of 8.1! Total junk, fraud and now after multiple wayer testers oh strips know it’s the machine. Do not waster your money on this|<ul><li>Not functioning as advertised</li></ul>|
 
 
-Search #
-Keywords: “plant blankets freeze protection”
-Search Results Link: https://www.amazon.com/s?k=plant+blankets+freeze+protection&sprefix=plant+blanket%2Caps%2C152&ref=nb_sb_ss_ts-doa-p_2_13 
 
-
-3. the Planket
+### 3. the Planket
    
 * Price $20.98
 * Vendor: Amazon
@@ -90,27 +86,18 @@ Unfortunately the rings easily get torn out of the material when there is gustin
 TIP: Don't use this as a ground sheet for weeds.”|<ul><li>Remove product when sun is out and temperatures are above freezing (Latent)</li><li>Survive winds (Explicit)</li><li>Allow plants access to natural light (Explicit)</li></ul>|
 |“Pro- very easy to install.
 Cons- not durable in wind, grommets easily detach
-
-
 This thing has already been ripped out of its grommets 2x. I resecured it, and it still is ripping up. We are having winds of 15-20 mph and it’s expected to ice over later. I guess whatever’s under the cover will live and the rest I will replace.
-
-
 Maybe in a light snow where there’s not a lot of wind this would be great.
-
-
 I don’t usually get snow, I got it for frost/ice. Likely returning.”|<ul><li>Survive winds (Explicit)</li><li>Durable (Explicit)</li><li>Work with a range of weather conditions (Explicit)</li></ul>|
-
-
 |“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died.
 
 
 On top of all of that, already has multiple tears as well after only a week and several of the plastic rings for staking down the sheet have come out. The ring placement is also not consistent throughout the entire sheet so there's just huge gaps that still have to have rocks put on them to prevent additional damage to plants, or to prevent a spot for wind to catch it and completely rip the entire sheet our of the ground.
 
-
 As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
 
 
-4. EcoQube Greenhouse
+###4. EcoQube Greenhouse
 
   
 * Price: $110
@@ -129,7 +116,7 @@ Customer Comments
 
 “Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”
 
-	   * Product should be explicit in features included or excluded. (Latent)
+ * Product should be explicit in features included or excluded. (Latent)
    * Product software needs to be fully functional and accessible for users. (Explicit) 
    * Product software should include adjustable settings. (Latent)
    * Product needs a software update patching system. (Latent)
