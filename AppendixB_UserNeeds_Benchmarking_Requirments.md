@@ -85,14 +85,8 @@ Product Reviews:
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
 |“Good for temporary use. I typically remove this "planket" when the sun is out and temperatures go above zero or 32 degs F. All plants need natural light, so prolonged use would have a detrimental impact on the plant etc.
-
-
 This one comes with rings at the corner of the "planket" so you can secure it via pegs, or hooks etc. Those pegs are supplied separately.
-
-
 Unfortunately the rings easily get torn out of the material when there is gusting winds of 10mph or more.
-
-
 TIP: Don't use this as a ground sheet for weeds.”|<ul><li>Remove product when sun is out and temperatures are above freezing (Latent)</li><li>Survive winds (Explicit)</li><li>Allow plants access to natural light (Explicit)</li></ul>|
 |“Pro- very easy to install.
 Cons- not durable in wind, grommets easily detach
@@ -116,10 +110,9 @@ On top of all of that, already has multiple tears as well after only a week and 
 As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
 
 
-	4. EcoQube Greenhouse
+4. EcoQube Greenhouse
 
   
-
 * Price: $110
 * Vendor: Amazon
 Product Link
