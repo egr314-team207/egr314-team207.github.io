@@ -32,7 +32,7 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 |"I do very much like this weather station, however, my array (the outside part) failed after 378 days (just barely over the one year warranty). That's FAR too short a time for something like this this to last. I am NOT in a harsh environment"|<ul><li>Durability issues</li></ul>|
 
 
-	
+### Product Review:	
 ### 2: Home Alkaline Water Filtration System
 * Price: $934.99
 * Vendor: Amazon
@@ -62,8 +62,9 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 * Price $20.98
 * Vendor: Amazon
 * Description: Plant blanket that helps protect your valuable plants from frost, sleet, snow, and cold winds. 
-Product Reviews:
 
+
+### Product Review:
 #### Positive Comments 
 
 |Customer Comments|Restated Customer Needs|
@@ -90,6 +91,7 @@ Product Reviews:
 * Vendor: Amazon
 Product Link
 * Description: The EcoQube greenhouse is a self-watering hydroponic growing system greenhouse. The design includes LED lights and smart functionality. It is intended for indoor use as a decorative piece, while also functioning as a self-contained countertop garden system. 
+
 ### Product Reviews:
 #### Positive Comments 
 |Customer Comments|Restated Customer Needs|
@@ -110,7 +112,6 @@ Product Link
 
 ### 5. Indoor Herb Garden Kit with Grow Light | Smart Garden for Home Kitchen Windowsill
   
-
    * Price: $99.95
    * Vendor: Click and Grow
    * Description: Grow Fresh Herbs and Vegetables Indoors: energy-efficient LED grow lights ensure your plants thrive no matter the weather. 
