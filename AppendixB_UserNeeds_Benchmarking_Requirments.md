@@ -23,8 +23,6 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 |"Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures."|<ul><li>Installation of weather deceive was simple</li></ul>|
 |"as described no problems"|<ul><li>performed just as advertised</ul></li>|
 		
-<ul><li></li><li></li></ul>
-
 #### Negative Comments
 
 |Customer Comments|Restated Customer Needs|
@@ -92,43 +90,23 @@ Product Reviews:
 * Vendor: Amazon
 Product Link
 * Description: The EcoQube greenhouse is a self-watering hydroponic growing system greenhouse. The design includes LED lights and smart functionality. It is intended for indoor use as a decorative piece, while also functioning as a self-contained countertop garden system. 
-Product Reviews:
-Positive Comments
-Customer Comments
-	Emphasized Customer Need
-	“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”
-	   * Product needs to be safe for users. (Explicit)
-   * Product should be aesthetically pleasing. (Explicit)
-	“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.”
+### Product Reviews:
+#### Positive Comments 
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
+|“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”|<ul><li>Product needs to be safe for users. (Explicit)</li><li>Product should be aesthetically pleasing. (Explicit)</li></ul>
 
+|“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”|<ul><li>Product should be explicit in features included or excluded. (Latent)</li><li>Product software needs to be fully functional and accessible for users. (Explicit) </li><li>Product software should include adjustable settings. (Latent)</li><li>Product needs a software update patching system. (Latent)</li></ul>
 
-“Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”
-
- * Product should be explicit in features included or excluded. (Latent)
-   * Product software needs to be fully functional and accessible for users. (Explicit) 
-   * Product software should include adjustable settings. (Latent)
-   * Product needs a software update patching system. (Latent)
-	“This EcoCube helps you reconnect you back to nature. Like a full-size greenhouse, the EcoQube Air provides the perfect conditions for your plants. I like to grow my own herbs for cooking that I can’t get fresh easily while also looking great on my kitchen counter top. ( A great conversation piece for my guests!
-
-
+|“This EcoCube helps you reconnect you back to nature. Like a full-size greenhouse, the EcoQube Air provides the perfect conditions for your plants. I like to grow my own herbs for cooking that I can’t get fresh easily while also looking great on my kitchen counter top. ( A great conversation piece for my guests!
 I feel that is a relatively low cost option for interior planting, especially for those lazy gardeners like me that live in a big city. I also like that I don't have to check or add water daily to my plants. Once a month is all you need to add some water to the reservoir.
-
-
-Overall, its a great mini green house in the privacy of your home or Apartment”
-	   * Product should be visually appealing and reflect nature. (Explicit)
-   * Product should be effective at keeping nominal conditions for plants. (Latent)
-   * Product should be small enough to be used inside and act as a decorative piece. (Latent)
-   * Product should be affordable. (Explicit)
-   * Product should be low maintenance for users. (Explicit)
-
-
-	
+Overall, its a great mini green house in the privacy of your home or Apartment”|<ul><li>Product should be visually appealing and reflect nature. (Explicit)</li><li></li><li>Product should be effective at keeping nominal conditions for plants. (Latent)</li>Product should be small enough to be used inside and act as a decorative piece. (Latent)<li>Product should be affordable. (Explicit)</li><li>Product should be low maintenance for users. (Explicit)</li></ul>|
 
 
 
-Negative Comments
-Customer Comments
-	Emphasized Customer Need
+#### Negative Comments
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
 	“I blame the broken item on Amazon, otherwise it appears to be a quite well built item. However, it would be great to make it CRYSTAL CLEAR you cannot use this product with just any smart phone, but *must* have an iPhone to use the product.”
 	   * Product should be able to interface with various smartphone options. (Explicit)
    * Product should be explicit in what smart phones it is compatible with. (Explicit)
