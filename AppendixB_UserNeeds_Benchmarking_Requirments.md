@@ -151,19 +151,27 @@ ________________
 
   
 
-Developing Product Requirements:
-User cases in different interaction examples:
-      1. “Been using this for the last 6 months and the biggest difference I’ve seen is in my skin. I’ve always struggle with acne and breakouts even at 30 years old, and ever since I’ve started using this machine my skin has never looked better”
-      2. “This product was a great introduction to gardening. I have since transplanted my chili peppers to proper pots, and take care of them myself. Click and Grow was almost like a gateway... I am a gardening nut now. But even so, I still use the Click and Grow as a starter. It's great for nurturing seedlings, and cloning (propagation).”
+## Developing Product Requirements:
+####  User cases in different interaction examples:
+
+1. “Been using this for the last 6 months and the biggest difference I’ve seen is in my skin. I’ve always struggle with acne and breakouts even at 30 years old, and ever since I’ve started using this machine my skin has never looked better”
+
+2. “This product was a great introduction to gardening. I have since transplanted my chili peppers to proper pots, and take care of them myself. Click and Grow was almost like a gateway... I am a gardening nut now. But even so, I still use the Click and Grow as a starter. It's great for nurturing seedlings, and cloning (propagation).”
 
 
-Design aspects:
-      * Hardware / Product Design: System will need 2 separate serial sensors and a serial actuator using SPI or I2C. Also utilize 1 motor or linear actuator to control direction in multiple directions based on serial sensors. Powering of this system will be using at least one switching voltage regulator in the final design. 
-      * Software / Functionality: Communication from board to web will be through WiFi. Data will be displayed to the user in real time when changes are occurring to the environment via sensors.
-      * Interactivity & User Experience: Once the user sets the product, the product will be able to automatically adjust to the surrounding weather so that the customer does not need to manually adjust the product.
-      * Customization: The user can set a desired output so that the product adjusts to the user's needs. The product can also come in different sizes and colors depending on the user preference.
-      * Manufacturing: the product will be made through a unique Printed Circuit Board that fits the sensors and actuators used in the product. There will be a casing to protect all components and make it easier to install.
-      * Safety: Product will use correct seals if dealing with water to prevent hazards. Also will keep electrical components secured within a solid zone to prevent shortages and prevent dangerous environments. Cords or power supply will have proper hardware to ensure no user is electrocuted.
+#### Design aspects:
+
+* Hardware / Product Design: System will need 2 separate serial sensors and a serial actuator using SPI or I2C. Also utilize 1 motor or linear actuator to control direction in multiple directions based on serial sensors. Powering of this system will be using at least one switching voltage regulator in the final design. 
+
+* Software / Functionality: Communication from board to web will be through WiFi. Data will be displayed to the user in real time when changes are occurring to the environment via sensors.
+      
+* Interactivity & User Experience: Once the user sets the product, the product will be able to automatically adjust to the surrounding weather so that the customer does not need to manually adjust the product.
+
+* Customization: The user can set a desired output so that the product adjusts to the user's needs. The product can also come in different sizes and colors depending on the user preference.
+
+* Manufacturing: the product will be made through a unique Printed Circuit Board that fits the sensors and actuators used in the product. There will be a casing to protect all components and make it easier to install.
+
+* Safety: Product will use correct seals if dealing with water to prevent hazards. Also will keep electrical components secured within a solid zone to prevent shortages and prevent dangerous environments. Cords or power supply will have proper hardware to ensure no user is electrocuted.
 
 [Back to User Needs, Benchmarking, and Requirements](UserNeeds.md)
 
