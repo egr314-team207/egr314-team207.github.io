@@ -95,9 +95,7 @@ Product Link
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
 |“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”|<ul><li>Product needs to be safe for users. (Explicit)</li><li>Product should be aesthetically pleasing. (Explicit)</li></ul>|
-
 |“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”|<ul><li>Product should be explicit in features included or excluded. (Latent)</li><li>Product software needs to be fully functional and accessible for users. (Explicit) </li><li>Product software should include adjustable settings. (Latent)</li><li>Product needs a software update patching system. (Latent)</li></ul>
-
 |“This EcoCube helps you reconnect you back to nature. Like a full-size greenhouse, the EcoQube Air provides the perfect conditions for your plants. I like to grow my own herbs for cooking that I can’t get fresh easily while also looking great on my kitchen counter top. ( A great conversation piece for my guests!
 I feel that is a relatively low cost option for interior planting, especially for those lazy gardeners like me that live in a big city. I also like that I don't have to check or add water daily to my plants. Once a month is all you need to add some water to the reservoir.
 Overall, its a great mini green house in the privacy of your home or Apartment”|<ul><li>Product should be visually appealing and reflect nature. (Explicit)</li><li></li><li>Product should be effective at keeping nominal conditions for plants. (Latent)</li>Product should be small enough to be used inside and act as a decorative piece. (Latent)<li>Product should be affordable. (Explicit)</li><li>Product should be low maintenance for users. (Explicit)</li></ul>|
@@ -107,19 +105,9 @@ Overall, its a great mini green house in the privacy of your home or Apartment�
 #### Negative Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-	“I blame the broken item on Amazon, otherwise it appears to be a quite well built item. However, it would be great to make it CRYSTAL CLEAR you cannot use this product with just any smart phone, but *must* have an iPhone to use the product.”
-	   * Product should be able to interface with various smartphone options. (Explicit)
-   * Product should be explicit in what smart phones it is compatible with. (Explicit)
-	“Light schedule doesn't work. Doesn't come with humidifier/fogger ( they discontinued it due to it causing mold and over watering plant).”
-	   * Product needs to account for moisture buildup during use. (Explicit)
-   * Product should have sufficient QA to ensure all features are working as intended. (Latent)
-	“I would give it zero stars if possible. Only grew mold and flies. I also tried using already established plants, Gardenia & roses using kokedama method. Died within a week. Money down the drain.”
-	   * Product needs to have a reasonable lifespan. (Explicit)
-   * Product should be explicit in what plants or growing methods are ideal for use. (Latent)
-	
-
-
-
+|“I blame the broken item on Amazon, otherwise it appears to be a quite well built item. However, it would be great to make it CRYSTAL CLEAR you cannot use this product with just any smart phone, but *must* have an iPhone to use the product.”|<ul><li>Product should be able to interface with various smartphone options. (Explicit)</li><li>Product should be explicit in what smart phones it is compatible with. (Explicit)</li></ul>|
+|“Light schedule doesn't work. Doesn't come with humidifier/fogger ( they discontinued it due to it causing mold and over watering plant).”|<ul><li>Product needs to account for moisture buildup during use. (Explicit)</li><li>Product should have sufficient QA to ensure all features are working as intended. (Latent)</li></ul>|
+|“I would give it zero stars if possible. Only grew mold and flies. I also tried using already established plants, Gardenia & roses using kokedama method. Died within a week. Money down the drain.”|<ul><li>Product needs to have a reasonable lifespan. (Explicit)</li><li>Product should be explicit in what plants or growing methods are ideal for use. (Latent)</li></ul>|
 
 
 5. Indoor Herb Garden Kit with Grow Light | Smart Garden for Home Kitchen Windowsill
