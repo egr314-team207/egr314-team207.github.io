@@ -7,6 +7,8 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 ##  Product Benchmarking
 
+All product reviews were from Amazon.com, the reviews are direct quotes from users. 
+
 **Selected products:
 
 1: Ambient Weather WS-2902 WiFi Smart Weather Station 
@@ -19,9 +21,9 @@ Our team has been tasked with a solution to counteract environmental conditions 
 #### Positive Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|> All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase.|* Information is easily accessible and legible|
-|> Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures.|* Installation of weather deceive was simple|
-|> as described no problems|* performed just as advertised|
+|"All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase."|* Information is easily accessible and legible|
+|"Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures."|* Installation of weather deceive was simple|
+|"as described no problems"|* performed just as advertised|
 	
 	
 
