@@ -41,6 +41,6 @@ X__Stefano Greco__
 
 X__Daymon Wilkins__
 
-[Back to Team Organzation](team207-github-io.github.io/Team207/TeamOrganization.md)
+[Back to Team Organzation](TeamOrganization.md)
 
-[Back to Project Overview Page](team207-github-io.github.io/Team207/index.md)
+[Back to Project Overview Page](index.md)
