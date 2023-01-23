@@ -83,7 +83,7 @@ Product Reviews:
 |“Lots of my plants were still burned by the freeze even though they were completely covered. DEFINITELY ineffective for any plants considered tropical. My elephant ear lost almost all of it's leaves, and both of my palm trees are having to be cut back to the stems. I knew there would be some damage on these but this is an unacceptable level of damage. Would need multiple sheets to actually be effective. Only saving grace is that none of my plants completely died. On top of all of that, already has multiple tears as well after only a week and several of the plastic rings for staking down the sheet have come out. The ring placement is also not consistent throughout the entire sheet so there's just huge gaps that still have to have rocks put on them to prevent additional damage to plants, or to prevent a spot for wind to catch it and completely rip the entire sheet our of the ground. As I said, no plants completely died but this is not a good product.“|<ul><li>Protect plants from freezing (Explicit)</li><li>Durable (Explicit)</li><li>Adhere to advertised features (Explicit)</li></ul>|
 
 
-###4. EcoQube Greenhouse
+### 4. EcoQube Greenhouse
 
   
 * Price: $110
@@ -95,7 +95,7 @@ Product Link
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
 |“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”|<ul><li>Product needs to be safe for users. (Explicit)</li><li>Product should be aesthetically pleasing. (Explicit)</li></ul>|
-|“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”|<ul><li>Product should be explicit in features included or excluded. (Latent)</li><li>Product software needs to be fully functional and accessible for users. (Explicit) </li><li>Product software should include adjustable settings. (Latent)</li><li>Product needs a software update patching system. (Latent)</li></ul>
+|“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”|<ul><li>Product should be explicit in features included or excluded. (Latent)</li><li>Product software needs to be fully functional and accessible for users. (Explicit) </li><li>Product software should include adjustable settings. (Latent)</li><li>Product needs a software update patching system. (Latent)</li></ul>|
 |“This EcoCube helps you reconnect you back to nature. Like a full-size greenhouse, the EcoQube Air provides the perfect conditions for your plants. I like to grow my own herbs for cooking that I can’t get fresh easily while also looking great on my kitchen counter top. ( A great conversation piece for my guests!
 I feel that is a relatively low cost option for interior planting, especially for those lazy gardeners like me that live in a big city. I also like that I don't have to check or add water daily to my plants. Once a month is all you need to add some water to the reservoir.
 Overall, its a great mini green house in the privacy of your home or Apartment”|<ul><li>Product should be visually appealing and reflect nature. (Explicit)</li><li></li><li>Product should be effective at keeping nominal conditions for plants. (Latent)</li>Product should be small enough to be used inside and act as a decorative piece. (Latent)<li>Product should be affordable. (Explicit)</li><li>Product should be low maintenance for users. (Explicit)</li></ul>|
@@ -110,18 +110,17 @@ Overall, its a great mini green house in the privacy of your home or Apartment�
 |“I would give it zero stars if possible. Only grew mold and flies. I also tried using already established plants, Gardenia & roses using kokedama method. Died within a week. Money down the drain.”|<ul><li>Product needs to have a reasonable lifespan. (Explicit)</li><li>Product should be explicit in what plants or growing methods are ideal for use. (Latent)</li></ul>|
 
 
-5. Indoor Herb Garden Kit with Grow Light | Smart Garden for Home Kitchen Windowsill
+### 5. Indoor Herb Garden Kit with Grow Light | Smart Garden for Home Kitchen Windowsill
   
 
    * Price: $99.95
    * Vendor: Click and Grow
    * Description: Grow Fresh Herbs and Vegetables Indoors: energy-efficient LED grow lights ensure your plants thrive no matter the weather. 
-Product Reviews
-Positive comments
+### Product Reviews
+#### Positive comments
 
-
-Customer Comments
-	Emphasized comments
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
 	“I generally manage to kill house plants but this device gives me an automatic green thumb. The water reservoir eliminates the need to remember to water it; the grow light eliminates the need for direct sunlight.”
 	   * No need to remember to water plants
    * Grow light eliminates need of sunlight
@@ -135,9 +134,9 @@ Customer Comments
 
 
 
-Negative comments
-Customer Comments
-	Emphasized Comments
+#### Negative comments
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
 	This is my second time growing(six pods total) and each time they are covered in mold. I reached out to the company and they say it’s normal however; it is gross. The entire bottom and stem of the vegetables are covered in white mold. I cannot keep using this. Extremely disappointed
 	   * High maintenance 
    * Not great to grow plants inside
