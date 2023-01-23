@@ -26,6 +26,8 @@ Prepared on Jan 23, 2023
 
 [Design Ideation](https://docs.google.com/document/d/1Em7D-Jp007Hy9gsVuGirWoKYb_hOZ6e2Eb4pvV0lgSc)
 
+[Presentation 1] (https://youtu.be/MT873-ksjp0)
+
 
 ## References
 
