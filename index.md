@@ -9,7 +9,7 @@ title: EGR 314 Project
 
 ## [Team Organization](/TeamOrganization.md)
 
-## [User Needs, Benchamrking, and Requirments](/UserNeeds.md)
+## [User Needs, Benchmarking, and Requirements](/UserNeeds.md)
 
 ## [Design Ideation](/DesignIdeation.md)
 
