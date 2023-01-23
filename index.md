@@ -33,3 +33,5 @@ title: EGR 314 Project
 
 [Appendix B: User Needs, Benchmarking, and Requirments](/AppendixB_UserNeeds_Benchmarking_Requirments.md) 
 
+[Appendix C: Design Ideation](AppendixC_DesignIdeation.md)
+
