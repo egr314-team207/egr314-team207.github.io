@@ -53,7 +53,7 @@ All product reviews were from Amazon.com, the reviews are direct quotes from use
 #### Negative Comments
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Leak and seal issues</li>Low modifications<li></li><li></li></ul>|
+|The water is great and has several setting that I enjoy. The only problem is that when I moved and installed it in the new home it leaks at the faucet and I have not been able to find a replacement online or by calling.|<ul><li>Leak and seal issues</li>Low modifications<li></li></ul>|
 |Amount of money paid to own the machine is not worth it at all!|<ul><li>overpriced</li></ul>|
 |My natural water ph is 8.5. This only makes it max 9.5 and a low of 8.1! Total junk, fraud and now after multiple wayer testers oh strips know it’s the machine. Do not waster your money on this|<ul><li>Not functioning as advertised</li></ul>|
 
