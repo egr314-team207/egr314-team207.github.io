@@ -1,5 +1,5 @@
 ---
-Title: Appendix A: Team Organization
+Title: Appendix A Team Organization
 ---
 
 ## Communication Channels
