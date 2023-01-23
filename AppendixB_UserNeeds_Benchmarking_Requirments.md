@@ -94,7 +94,7 @@ Product Link
 #### Positive Comments 
 |Customer Comments|Restated Customer Needs|
 |-----|-----|
-|“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”|<ul><li>Product needs to be safe for users. (Explicit)</li><li>Product should be aesthetically pleasing. (Explicit)</li></ul>
+|“This is a nice little greenhouse with bright lights. I think my only complaint is that it's a little sharp on the edges…”|<ul><li>Product needs to be safe for users. (Explicit)</li><li>Product should be aesthetically pleasing. (Explicit)</li></ul>|
 
 |“This is my second ecocube and my first production version. My original ecocube was from their first kickstarter campaign. This ecocube is the base model and does not come with the humidifier or UV.Their is a companion app that allows you to adjust pump and fan settings. As well as set schedules for the lights. However while the app connects and is able to remote control the cube the schedule feature is broken.”|<ul><li>Product should be explicit in features included or excluded. (Latent)</li><li>Product software needs to be fully functional and accessible for users. (Explicit) </li><li>Product software should include adjustable settings. (Latent)</li><li>Product needs a software update patching system. (Latent)</li></ul>
 
