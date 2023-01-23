@@ -19,6 +19,6 @@ The team’s mission is to design a product that can stand out amongst our peers
 
 To achieve this goal, the team is committed to putting forth significant time and effort to overcome the many challenges that will present themselves. Furthermore, through extensive collaboration the team will look to gain the necessary experience to work in team-based environments within the industry.  
 
-[Appendix A: Team Organization](team207-github-io.github.io/Team207/AppendixA_TeamOrganization.md)
+[Appendix A: Team Organization](AppendixA_TeamOrganization.md)
 
-[Back to Project Overview Page](team207-github-io.github.io/Team207/index.md)
+[Back to Project Overview Page](index.md)
