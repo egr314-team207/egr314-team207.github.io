@@ -1,5 +1,5 @@
 ---
-title: Appendix B User Needs, Benchmarking, & Ideation
+Title: Appendix B User Needs, Benchmarking, & Ideation
 ---
 ## Introduction
 
@@ -16,16 +16,13 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 
 Product Review:
-
 Positive Comments
-Customer Comments
-	Restated Customer Needs
-	All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase.
-	* Information is easily accessible and legible
-	Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures.
-	* Installation of weather deceive was simple 
-	as described no problems
-	* performed just as advertised
+|Customer Comments|Restated Customer Needs|
+|-----|-----|
+|All the weather information you’ll ever need. Large easy to read display. You’ll have to provide your own mounting pole or bracket to hold the station outside - make sure you buy one with the station. Very happy with this purchase.|* Information is easily accessible and legible|
+|Installation and setup was a breeze and the ambient weather website and app are very impressive. The thing that I like the most is that you can set up alerts to trigger an email or text message on any metric that this device captures.|* Installation of weather deceive was simple|
+|as described no problems|* performed just as advertised|
+	
 	
 
 Negative Comments
