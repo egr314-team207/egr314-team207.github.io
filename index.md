@@ -20,7 +20,7 @@ Prepared on Jan 23, 2023
 
 ## [Presentation 1](/Presentation1.md)
 
-## [block Diagram](/BlockDiagram.md)
+## [Block Diagram](/BlockDiagram.md)
 
 ## [Component Selection](/ComponentSelection.md)
 
