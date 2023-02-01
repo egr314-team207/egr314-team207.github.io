@@ -10,6 +10,10 @@ Title: Appendix E Component Selection
 | Option 2. TMP126DCKR<br>$3.01/each<br>Link to Product | *Digital output<br>Range: -55 - 175 C<br>*Voltage: 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.3 degree accuracy<br>*Surface mount | *Expensive compared to others<br>*Voltage Output |
 | Option 3. TMP126NDCKR<br>$2.03 /each<br>Link to Product | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br>*SPI output |  |
 
+Choice: Option 1
+
+Rationale: One reason why we choose this sensor is because of the output type, we need either SPI or I2C. In addition to this, we will be working with Option 1 in class, this will make it easier on the team to apply this sensor to our product.
+
 ## Hall Effect Sensor
 
 | Tables        | Are           | Cool  |
