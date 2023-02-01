@@ -6,7 +6,7 @@ Title: Component Selection
 
 | Solutions     | Pros          | Cons  |
 | --------------------------------------------------- |:-------------:| -----:|
-| Option 1. TC74A4-3.3VCTTR,<br>$1.09/each Link to Product | Surface Mount, Cheap, Range: -40 to 125 C, Digital output, Voltage: 2.7 to 5.5 V, Standby mode, I2C output | $1600 |
+| Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>Link to Product | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
