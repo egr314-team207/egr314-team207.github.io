@@ -6,7 +6,7 @@ Title: Appendix E Component Selection
 
 | Solutions     | Pros          | Cons  |
 | :---------------------------------------------------: | ------------- | ----- |
-| Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>Link to Product | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
+| Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>Link to Product | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
