@@ -20,6 +20,10 @@ Prepared on Jan 23, 2023
 
 ## [Presentation 1](/Presentation1.md)
 
+## [block Diagram](/BlockDiagram.md)
+
+## [Component Selection](/ComponentSelection.md)
+
 ## External Links
 
 [Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
@@ -29,6 +33,10 @@ Prepared on Jan 23, 2023
 [Design Ideation](https://docs.google.com/document/d/1Em7D-Jp007Hy9gsVuGirWoKYb_hOZ6e2Eb4pvV0lgSc)
 
 [Presentation 1](https://youtu.be/MT873-ksjp0)
+
+[block Diagram](https://docs.google.com/document/d/1qI8_8gIsJv-ShmkQlHdTbiyKaY3Y-HMA3DgkoO0f4UU/edit?usp=sharing)
+
+[Component Selection](https://docs.google.com/document/d/10sWRT-sti1-Uqhkb2VvEw6br8J2XvnVjC-QyAAwbJQE/edit?usp=sharing)
 
 ## References
 
@@ -40,4 +48,8 @@ Prepared on Jan 23, 2023
 [Appendix B: User Needs, Benchmarking, and Requirments](/AppendixB_UserNeeds_Benchmarking_Requirments.md) 
 
 [Appendix C: Design Ideation](AppendixC_DesignIdeation.md)
+
+[Appendix D: Block Diagram](AppendixD_BlockDiagram.md)
+
+[Appendix E: Component Selection](AppendixD_ComponentSelection.md)
 
