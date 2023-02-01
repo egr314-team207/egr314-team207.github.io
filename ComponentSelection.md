@@ -18,9 +18,9 @@ Rationale: One reason why we choose this sensor is because of the output type, w
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1: Sensor Rotary 360deg SMD<br>MLX90316EDC-BDG-100-TU-ND<br>$6.97/each<br>link to product | *SPI output<br>*Surface mount | *supply voltage 4.5-5.5V<br>*Least varying operating temperature -40C-85C |
+| Option 2: Sensor Angle 360deg SMD<br>AS5600-ASOM<br>$3.46/each<br>Link to product | *Least expensive<br>*Supply voltage 3.3V, 5V<br>*Surface mount | *Analog voltage for output |
+|Option 3: Hall Effect Sensor Rotary Position External Magnet<br>AS5047U-HTSM<br>$13.01/each<br>Link to product | *Supply voltage 3-3V-6V, 4.5V-5.5V<br>*SPI & PWM output<br>*Surface mount | *Most expensive<br>*TSSOP packaging |
 
 Choice: Option 2: AS5600-ASOM
 
