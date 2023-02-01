@@ -1,0 +1,27 @@
+---
+Title: Component Selection
+---
+
+## Temperature Sensor Module
+
+| Solutions     | Pros          | Cons  |
+| --------------------------------------------------- |:-------------:| -----:|
+| Option 1. TC74A4-3.3VCTTR,<br>$1.09/each Link to Product | Surface Mount, Cheap, Range: -40 to 125 C, Digital output, Voltage: 2.7 to 5.5 V, Standby mode, I2C output | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+## Hall Effect Sensor
+
+![image caption](https://imgur.com/JYterZr)
+
+## Motor Module
+
+## Motor
+
+## Power Source
+
+## Voltage Regulator
+
+[Appendix C: Component Selection](AppendixD_ComponentSelection.md)
+
+[Back to Project Overview](index.md)
