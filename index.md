@@ -34,7 +34,7 @@ Prepared on Jan 23, 2023
 
 [Presentation 1](https://youtu.be/MT873-ksjp0)
 
-[block Diagram](https://docs.google.com/document/d/1qI8_8gIsJv-ShmkQlHdTbiyKaY3Y-HMA3DgkoO0f4UU/edit?usp=sharing)
+[Block Diagram](https://docs.google.com/document/d/1qI8_8gIsJv-ShmkQlHdTbiyKaY3Y-HMA3DgkoO0f4UU/edit?usp=sharing)
 
 [Component Selection](https://docs.google.com/document/d/10sWRT-sti1-Uqhkb2VvEw6br8J2XvnVjC-QyAAwbJQE/edit?usp=sharing)
 
