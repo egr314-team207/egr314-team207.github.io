@@ -31,8 +31,8 @@ Rationale: This option seemed most rational because it contains most of the pros
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
 | Option 1. L9929 SPI Controlled Half Bridge<br>$8/each<br>Datasheet | *High voltage draw options<br>*Highest amperage output option<br>*Highest power draw options<br>*SPI compatible | *No heat sink<br>*Low documentation<br>*Not available from reputable resources |
-| Option 2. DRV8823-Q1 4-Bridge Serial Interface Motor Driver<br>$6.5/each<br>Datasheet | *Significantly more interface options than alternatives<br>*Built in 3.3V reference<br>*Protected against under/over voltage | More complex than other devices<br>*More pins means more complex circuit design<br>*High voltage requirements |
-| Option 3. L9958 Half Bridge Motor Driver<br>$6.25/each<br>Datasheet | are neat      |    $1 |
+| Option 2. DRV8823-Q1 4-Bridge Serial Interface Motor Driver<br>$6.5/each<br>Datasheet | *Significantly more interface options than alternatives<br>*Built in 3.3V reference<br>*Protected against under/over voltage | *More complex than other devices<br>*More pins means more complex circuit design<br>*High voltage requirements |
+| Option 3. L9958 Half Bridge Motor Driver<br>$6.25/each<br>Datasheet | *Various power package options<br>*3.3V Compatible<br>*16 bit SPI interface<br>*Up to 20 Khz operating frequency<br>*High power flexibility | *Less documentation than other options<br>*Low maximum voltage relative to alternatives |
 
 Choice: Option 1: L9958
 
@@ -42,9 +42,9 @@ Rationale: The L9958 offers the most in terms of flexibility and power controls 
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1. Pololu 99:1 Gear motor<br>$48/each<br>datasheet | *High torque<br>*Wide range of operating voltages<br>*Highly available<br>*Affordable<br>*More precise control | *Encoder adds design complexity<br>*High Power Requirements |
+| Option 2. Nidel Copal ROB-09238<br>$19/each<br>datasheet | *Stepper motor gives more precise control<br>*Affordable<br>*High torque<br>*Available from reputable sources | *Little documentation on this device<br>*Extra complexity due to stepper motor features<br>*High power requirements |
+| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>datasheet | *Reputable supplier<br>*Low complexity<br>*Affordable<br>*High Torque<br>*12V Operating Voltage<br>*Good documentation | *Low features<br>*High power requirements<br>*Does not have precise motor control options |
 
 Rationale: For the purposes of the team’s design, the added complexity and precision 
 
@@ -54,9 +54,9 @@ Choice: Option 3. Pololu 4798 Brushed Gearmotorfrom the alternative motor option
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1. KS-0930 9V<br>$15.42 Each<br>Link to Product | *Continuous source of 12V<br>*No need to replace components over time<br>*Outputs up to 3 Amps | *Requires a direct connection<br>*Wired connection can be tedious to manage<br>*Limits portability of design |
+| Option 2. EN22<br>$2.59/each<br>Link to product | *Affordable<br>*Can withstand high temperatures<br>*Many in stock (digikey) | *Unstable<br>*Output voltage dips from 9V to 5V after a day of use (Constant Output) |
+| Option 3. A 1604 BK210J<br>$2.16/each<br>Link to product | *Affordable<br>*Highest max power | *Expensive<br>*Few in stock<br>*Highest minimum current and voltage requirements |
 
 Choice: Option 1
 
@@ -66,9 +66,9 @@ Rationale: The team opted to use the AC/DC 12V power supply due to its ease of u
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1. MIC5156-5.0YM<br>$4.04 Each<br>Link to Product | *Input: 3 - 36V<br>*Surface Mount<br>*Affordable<br>*Positive fixed | *Few in stock |
+| Option 2. RT9194GE<br>$0.68/each<br>Link to Product | *Cheap<br>*Surface Mount<br>*Input: 4.5 - 13.5V | *Positive Adjustable |
+| Option 3. LT1575CS8-3.3#PBF<br>$7.44/each<br>Link to Product | *Surface Mount<br>*Input: 10 - 20V<br>*Positive fixed | *Most Expensive<br>*Few in Stock |
 
 Choice: Option 1
 
