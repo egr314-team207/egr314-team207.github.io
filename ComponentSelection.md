@@ -30,9 +30,9 @@ Rationale: This option seemed most rational because it contains most of the pros
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1. L9929 SPI Controlled Half Bridge<br>$8/each<br>Datasheet | *High voltage draw options<br>*Highest amperage output option<br>*Highest power draw options<br>*SPI compatible | *No heat sink<br>*Low documentation<br>*Not available from reputable resources |
+| Option 2. DRV8823-Q1 4-Bridge Serial Interface Motor Driver<br>$6.5/each<br>Datasheet | *Significantly more interface options than alternatives<br>*Built in 3.3V reference<br>*Protected against under/over voltage | More complex than other devices<br>*More pins means more complex circuit design<br>*High voltage requirements |
+| Option 3. L9958 Half Bridge Motor Driver<br>$6.25/each<br>Datasheet | are neat      |    $1 |
 
 Choice: Option 1: L9958
 
