@@ -5,7 +5,7 @@ Title: Microcontroller Selection
 ## Temperature Sensor Module
 
 | Design Considerations | Team Project-Specific Requirements<br>from Problem Definition and Block Diagram | PIC<br>Option1 | PIC<br>Option2 | PIC<br>Option3 |
-| :---: | --- | ---|
+| --- | --- | :---: | :---: | :---: |
 | Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
 | Option 2. TMP126DCKR<br>$3.01/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126DCKR/16602359struments/TMP236A4DCKT/9692559) | *Digital output<br>Range: -55 - 175 C<br>*Voltage: 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.3 degree accuracy<br>*Surface mount | *Expensive compared to others<br>*Voltage Output |
 | Option 3. TMP126NDCKR<br>$2.03 /each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126NDCKR/16602367) | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br>*SPI output |  |
