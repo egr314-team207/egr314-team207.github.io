@@ -26,13 +26,17 @@ Choice: Option 2: AS5600-ASOM
 
 Rationale: This option seemed most rational because it contains most of the pros with the least amount of cons. Also able to work with different voltages and in a wide range of temperatures. This chip is also one we have worked with in the past so there's less of a learning curve.
 
-## Motor Module
+## Microcontrollers Options
 
-| Solutions     | Pros          | Cons  |
-| :---: | --- | ---|
-| Option 1. L9929 SPI Controlled Half Bridge<br>$8/each<br>[Datasheet](/https://aliot.com.ua/pdf/l9929.pdf) | *High voltage draw options<br>*Highest amperage output option<br>*Highest power draw options<br>*SPI compatible | *No heat sink<br>*Low documentation<br>*Not available from reputable resources |
-| Option 2. DRV8823-Q1 4-Bridge Serial Interface Motor Driver<br>$6.5/each<br>[Datasheet](/https://www.ti.com/lit/ds/symlink/drv8823-q1.pdf?ts=1675110821912&ref_url=https%253A%252F%252Fwww.google.com%252F) | *Significantly more interface options than alternatives<br>*Built in 3.3V reference<br>*Protected against under/over voltage | *More complex than other devices<br>*More pins means more complex circuit design<br>*High voltage requirements |
-| Option 3. L9958 Half Bridge Motor Driver<br>$6.25/each<br>[Datasheet](/https://www.mouser.com/datasheet/2/389/l9958-1849672.pdf) | *Various power package options<br>*3.3V Compatible<br>*16 bit SPI interface<br>*Up to 20 Khz operating frequency<br>*High power flexibility | *Less documentation than other options<br>*Low maximum voltage relative to alternatives |
+| Design Conciderations | Team Project-Specific Requirements<br>from Problem Definition and Block Diagram | Pic<br>Option1 | Pic<br>Option2 | Pic<br>Option3 |
+| --- | --- | :---: | :---: | :---: |
+| How many GPIO Pins? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
+| Built-in Analog to Digital Converter? <br>How many? | 0 | 1 | 1 | 1 |
+| Built-in Hardware PWM? How many? | 0 | 2 | 0 | 2 |
+| Built-in I2C? SPI? How many? | 1 I2C 1 SPI  | 1 I2C<br>1 SPI | 2 | 2 |
+| Built-in UART? How many? | 1 | 2 | 2 | 2 |
+| Other Required Built-In Features? (optional) | --- | --- | --- | --- |
+| Additional considerations specific to<br>your project specifications (optional) | --- | --- | --- | --- |
 
 Choice: Option 1: L9958
 
