@@ -18,13 +18,19 @@ Choice: Option 1
 
 Rationale: One reason why we choose this sensor is because of the output type, we need either SPI or I2C. In addition to this, we will be working with Option 1 in class, this will make it easier on the team to apply this sensor to our product.
 
-## Hall Effect Sensor
+## Microcontrollers information
 
-| Solutions     | Pros          | Cons  |
-| :---: | --- | ---|
-| Option 1. Sensor Rotary 360deg SMD<br>MLX90316EDC-BDG-100-TU-ND<br>$6.97/each<br>[link to product](/https://www.digikey.com/short/44z2bv5z) | *SPI output<br>*Surface mount | *supply voltage 4.5-5.5V<br>*Least varying operating temperature -40C-85C |
-| Option 2. Sensor Angle 360deg SMD<br>AS5600-ASOM<br>$3.46/each<br>[Link to product](/https://www.digikey.com/short/jd4n23vq) | *Least expensive<br>*Supply voltage 3.3V, 5V<br>*Surface mount | *Analog voltage for output |
-|Option 3. Hall Effect Sensor Rotary Position External Magnet<br>AS5047U-HTSM<br>$13.01/each<br>[Link to product](/https://www.digikey.com/short/2twd9t7v) | *Supply voltage 3-3V-6V, 4.5V-5.5V<br>*SPI & PWM output<br>*Surface mount | *Most expensive<br>*TSSOP packaging |
+| Microcontroller Considerations | PIC<br>Option1 | PIC<br>Option2 | PIC<br>Option3 |
+| --- | :---: | :---: | :---: |
+| Part Number | PIC18F26K40 | PIC18F27J53 | PIC18F27K40 |
+| Links (URL) to Data Sheets | [Link](https://www.microchip.com/en-us/product/PIC18F26K40) | [Link](https://www.microchip.com/en-us/product/PIC18F27J53) | [Link](https://www.microchip.com/en-us/product/PIC18F27K40) |
+| Built-in Hardware PWM?<br>How many? | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009964C.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF27_47K40-Data-Sheet-40001844E.pdf) |
+| Built-in I2C? SPI? How many? | [Link] | [Link] | [Link] |
+| Built-in UART? How many? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 2 | 2 | 2 |
+| Other Required Built-In Features? (optional) | --- | --- | --- | --- |
+| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
+| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
+| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
 
 Choice: Option 2: AS5600-ASOM
 
