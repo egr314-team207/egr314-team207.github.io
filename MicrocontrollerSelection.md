@@ -24,13 +24,21 @@ Rationale: One reason why we choose this sensor is because of the output type, w
 | --- | :---: | :---: | :---: |
 | Part Number | PIC18F26K40 | PIC18F27J53 | PIC18F27K40 |
 | Links (URL) to Data Sheets | [Link](https://www.microchip.com/en-us/product/PIC18F26K40) | [Link](https://www.microchip.com/en-us/product/PIC18F27J53) | [Link](https://www.microchip.com/en-us/product/PIC18F27K40) |
-| Built-in Hardware PWM?<br>How many? | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009964C.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF27_47K40-Data-Sheet-40001844E.pdf) |
-| Built-in I2C? SPI? How many? | [Link] | [Link] | [Link] |
-| Built-in UART? How many? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 2 | 2 | 2 |
-| Other Required Built-In Features? (optional) | --- | --- | --- | --- |
-| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
-| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
-| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
+| Links (URL) to Data Sheets | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009964C.pdf) | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/PIC18LF27_47K40-Data-Sheet-40001844E.pdf) |
+| Links (URL) to Application<br>Notes | [Link](https://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-With-SPI-Using-MSSP-on-PIC18-90003265B.pdf) | [Link](https://ww1.microchip.com/downloads/en/Appnotes/00001267b.pdf) | [Link](https://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-With-SPI-Using-MSSP-on-PIC18-90003265B.pdf) |
+| Links (URL) to Code Examples | [Link](https://github.com/microchip-pic-avr-examples/pic18f27k42-curiosity-hpc-labs) | --- | [Link](https://github.com/microchip-pic-avr-examples/pic18f27k42-curiosity-hpc-labs) |
+| Links (URL) to External Resources |  --- | --- | [Link](https://electronics.stackexchange.com/questions/282913/spi-library-for-pic18f27k40) |
+| Production Unit Cost | $2.44 | $4.99 | $2.08 |
+| Supply Voltage Range | 2.3-5.5 | 2.15-3.6 | 1.8-3.6 |
+| Absolute Maximum Current for entire IC) | 250mA | 200mA | 250mA |
+| Maximum GPIO Pin Current | 50mA | 25mA | 50mA |
+| 8-bit or 16-bit Architecture | 8 bit | 8 bit | 8 bit |
+| Available IC Packages / Footprints | SPDIP<br>SOIC<br>SSOP | SPDIP<br>SOIC<br>SSOP | SPDIP<br>SOIC<br>SSOP |
+| Supports External Interrupts? | Yes | Yes | Yes |
+| In-System Programming<br>Capability and Type | ICSP | ICSP | ICSP |
+| Programming Hardware, Cost,<br>and URL | $76.99<br>[link](https://www.microchip.com/en-us/development-tool/PG164140) | $76.99<br>[link](https://www.microchip.com/en-us/development-tool/PG164140) | $76.99 [link](https://www.microchip.com/en-us/development-tool/PG164100)<br>$76.99 [link](https://www.microchip.com/en-us/development-tool/PG164140) |
+| Works with [MPLAB® X Integrated Development Environment](https://www.microchip.com/mplab/mplab-x-ide) (IDE)? | Yes | Yes | Yes |
+| Works with [Microchip Code Configurator](https://www.microchip.com/mplab/mplab-code-configurator)? | Yes | Yes | Yes |
 
 Choice: Option 2: AS5600-ASOM
 
