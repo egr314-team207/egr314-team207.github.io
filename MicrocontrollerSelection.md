@@ -37,7 +37,7 @@ Title: Microcontroller Selection
 | Works with [Microchip Code Configurator](https://www.microchip.com/mplab/mplab-code-configurator)? | Yes | Yes | Yes |
 
 ## Microcontrollers pros and cons
-
+| --- | --- | --- | --- |
 | --- | :---: | :---: | :---: |
 | Overall Pros | Low Power<br><br>In Circuit Debug | Large memory<br><br>Sleep mode | Large memory<br><br>Low Power |
 | Overall Cons | Less memory which may cause issues while developing code<br><br>Higher Voltage Requirement | High unit cost for functionality that is not useful for project <br><br>Missing features that might help with debugging the code | Support for many features may make debugging more difficult<br><br>Currently Available PDIP and Surface mount parts have different voltage ranges |
