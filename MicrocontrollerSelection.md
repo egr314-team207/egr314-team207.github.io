@@ -7,12 +7,12 @@ Title: Microcontroller Selection
 | Design Considerations | Team Project-Specific Requirements<br>from Problem Definition and Block Diagram | PIC<br>Option1 | PIC<br>Option2 | PIC<br>Option3 |
 | --- | --- | :---: | :---: | :---: |
 | How many GPIO Pins? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
-| Built-in Analog to Digital Converter?<br>How many? | 0 | 25 | 16 | 25 |
-| Built-in Hardware PWM?<br>How many? | 0 | 25 | 16 | 25 |
-| Built-in I2C? SPI? How many? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
-| Built-in UART? How many? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
-| Other Required Built-In Features? (optional) | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
-| Additional considerations specific<br>to your project specifications (optional) | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 25 | 16 | 25 |
+| Built-in Analog to Digital Converter?<br>How many? | 0 | 1 | 1 | 1 |
+| Built-in Hardware PWM?<br>How many? | 0 | 2 | 0 | 2 |
+| Built-in I2C? SPI? How many? | 1 I2C 1 SPI  | 1 I2C<br>1 SPI | 2 | 2 |
+| Built-in UART? How many? | 13 (3 LED, 1 Button, 3 CS SPI, 2 SPI, 2 I2C, 2 UART) | 2 | 2 | 2 |
+| Other Required Built-In Features? (optional) | --- | --- | --- | --- |
+| Additional considerations specific<br>to your project specifications (optional) | --- | --- | --- | --- |
 
 Choice: Option 1
 
