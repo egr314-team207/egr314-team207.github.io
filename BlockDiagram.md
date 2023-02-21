@@ -4,7 +4,7 @@ Title: Block Diagram
 
 ## Block Diagram
 
-![image caption](https://imgur.com/a/PdDuQpx)
+![image caption](https://imgur.com/a/DUwhyDn)
 
 ## Verification Table
 
