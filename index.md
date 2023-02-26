@@ -10,7 +10,7 @@ Prepared on Jan 23, 2023
 ## Professor: Daniel Aukes
 ![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
 
-#Introduction
+# Introduction
 
 Our team has been tasked with a solution to counteract environmental conditions that can be solved using sensors and hardware components. We have analyzed existing products in the field of our project. From these products we have determined what customers prefer and what customers need. We have brainstormed a list of user needs that our product should meet.
 
