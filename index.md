@@ -10,6 +10,11 @@ Prepared on Jan 23, 2023
 ## Professor: Daniel Aukes
 ![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
 
+#Introduction
+
+Our team has been tasked with a solution to counteract environmental conditions that can be solved using sensors and hardware components. We have analyzed existing products in the field of our project. From these products we have determined what customers prefer and what customers need. We have brainstormed a list of user needs that our product should meet.
+
+
 # Project Sections
 
 ## [Team Organization](/TeamOrganization.md)
@@ -28,7 +33,7 @@ Prepared on Jan 23, 2023
 
 ## [Software Proposal](/SoftwareProposal.md)
 
-## External Links
+# External Links
 
 [Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
 
@@ -46,10 +51,10 @@ Prepared on Jan 23, 2023
 
 [Software Proposal](https://docs.google.com/document/d/1o9I4fJ1cjiCktfBZGj6ZpjWAH-6BPdjdQE8qzskOVqE/edit?usp=sharing)
 
-## References
+# References
 
 
-## Appendix Sections
+# Appendix Sections
 
 [Appendix A: Team Organization](/AppendixA_TeamOrganization.md)
 
