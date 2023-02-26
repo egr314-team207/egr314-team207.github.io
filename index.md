@@ -26,6 +26,8 @@ Prepared on Jan 23, 2023
 
 ## [Microcontroller Selection](/MicrocontrollerSelection.md)
 
+## [Software Proposal](/SoftwareProposal.md)
+
 ## External Links
 
 [Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
@@ -41,6 +43,8 @@ Prepared on Jan 23, 2023
 [Component Selection](https://docs.google.com/document/d/10sWRT-sti1-Uqhkb2VvEw6br8J2XvnVjC-QyAAwbJQE/edit?usp=sharing)
 
 [Microcontroller Selection](https://docs.google.com/document/d/1xY3Ngtn7RRPdVT-Jf9PClQlFjy1c6qwV/edit?usp=sharing&ouid=103002515827584475524&rtpof=true&sd=true)
+
+[Software Proposal](https://docs.google.com/document/d/1o9I4fJ1cjiCktfBZGj6ZpjWAH-6BPdjdQE8qzskOVqE/edit?usp=sharing)
 
 ## References
 
@@ -58,3 +62,5 @@ Prepared on Jan 23, 2023
 [Appendix E: Component Selection](AppendixD_ComponentSelection.md)
 
 [Appendix F: Component Selection](AppendixD_MicrocontrollerSelection.md)
+
+[Appendix G: Software Proposal](AppendixG_SoftwareProposal.md)
