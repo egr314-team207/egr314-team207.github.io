@@ -74,6 +74,10 @@ Choice: Option 1
 
 Rationale: Option 1 has a wide voltage input which would work for our components and is available for an affordable price. By being a positive fixed type we will avoid having to use external components.
 
+## Power Budget
+
+![image caption](https://discord.com/channels/1062096005992034424/1062096006642147503/1079540354870677534)
+
 [Appendix F: Component Selection](AppendixF_ComponentSelection.md)
 
 [Back to Project Overview](index.md)
