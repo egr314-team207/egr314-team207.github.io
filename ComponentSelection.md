@@ -74,6 +74,6 @@ Choice: Option 1
 
 Rationale: Option 1 has a wide voltage input which would work for our components and is available for an affordable price. By being a positive fixed type we will avoid having to use external components.
 
-[Appendix E: Component Selection](AppendixD_ComponentSelection.md)
+[Appendix F: Component Selection](AppendixF_ComponentSelection.md)
 
 [Back to Project Overview](index.md)
