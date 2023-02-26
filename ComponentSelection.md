@@ -76,7 +76,7 @@ Rationale: Option 1 has a wide voltage input which would work for our components
 
 ## Power Budget
 
-![image caption](https://discord.com/channels/1062096005992034424/1062096006642147503/1079540354870677534)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1079540354677756045/image.png)
 
 [Appendix F: Component Selection](AppendixF_ComponentSelection.md)
 
