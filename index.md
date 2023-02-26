@@ -24,6 +24,8 @@ Prepared on Jan 23, 2023
 
 ## [Component Selection](/ComponentSelection.md)
 
+## [Microcontroller Selection](/MicrocontrollerSelection.md)
+
 ## External Links
 
 [Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
@@ -37,6 +39,8 @@ Prepared on Jan 23, 2023
 [Block Diagram](https://docs.google.com/document/d/1qI8_8gIsJv-ShmkQlHdTbiyKaY3Y-HMA3DgkoO0f4UU/edit?usp=sharing)
 
 [Component Selection](https://docs.google.com/document/d/10sWRT-sti1-Uqhkb2VvEw6br8J2XvnVjC-QyAAwbJQE/edit?usp=sharing)
+
+[Microcontroller Selection](https://docs.google.com/document/d/1xY3Ngtn7RRPdVT-Jf9PClQlFjy1c6qwV/edit?usp=sharing&ouid=103002515827584475524&rtpof=true&sd=true)
 
 ## References
 
@@ -53,3 +57,4 @@ Prepared on Jan 23, 2023
 
 [Appendix E: Component Selection](AppendixD_ComponentSelection.md)
 
+[Appendix F: Component Selection](AppendixD_MicrocontrollerSelection.md)
