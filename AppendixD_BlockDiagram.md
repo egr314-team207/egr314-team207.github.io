@@ -10,6 +10,6 @@ Title: Block Diagram
 
 ![image caption](https://imgur.com/JYterZr)
 
-[Appendix C: Block Diagram](BlockDiagram.md)
+[Back to Block Diagram](BlockDiagram.md)
 
 [Back to Project Overview](index.md)
