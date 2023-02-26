@@ -32,11 +32,11 @@ Rationale: This option seemed most rational because it contains most of the pros
 | :---: | --- | ---|
 | Option 1. L9929 SPI Controlled Half Bridge<br>$8/each<br>[Datasheet](/https://aliot.com.ua/pdf/l9929.pdf) | *High voltage draw options<br>*Highest amperage output option<br>*Highest power draw options<br>*SPI compatible | *No heat sink<br>*Low documentation<br>*Not available from reputable resources |
 | Option 2. DRV8823-Q1 4-Bridge Serial Interface Motor Driver<br>$6.5/each<br>[Datasheet](/https://www.ti.com/lit/ds/symlink/drv8823-q1.pdf?ts=1675110821912&ref_url=https%253A%252F%252Fwww.google.com%252F) | *Significantly more interface options than alternatives<br>*Built in 3.3V reference<br>*Protected against under/over voltage | *More complex than other devices<br>*More pins means more complex circuit design<br>*High voltage requirements |
-| Option 3. L9958 Half Bridge Motor Driver<br>$6.25/each<br>[Datasheet](/https://www.mouser.com/datasheet/2/389/l9958-1849672.pdf) | *Various power package options<br>*3.3V Compatible<br>*16 bit SPI interface<br>*Up to 20 Khz operating frequency<br>*High power flexibility | *Less documentation than other options<br>*Low maximum voltage relative to alternatives |
+| Option 3. IFX9201SGAUMA1 Half Bridge Motor Driver<br>$4.88/each<br>[Datasheet](https://www.mouser.com/datasheet/2/389/l9958-1849672.pdf) | *Various power package options<br>*3.3V Compatible<br>*16 bit SPI interface<br>*Up to 20 Khz operating frequency<br>*High power flexibility | *Less documentation than other options<br>*Low maximum voltage relative to alternatives |
 
-Choice: Option 1: L9958
+Choice: Option 13: IFX9201SGAUMA1
 
-Rationale: The L9958 offers the most in terms of flexibility and power controls for our device. The chip is the most expensive option, but it also has the most robust SPI interface options. It also has a very high amperage output potential, allowing the team to use more powerful motors. 
+Rationale: The IFX9201SGAUMA1 offers the most in terms of flexibility and power controls for our device. The chip is the most expensive option, but it also has the most robust SPI interface options. It also has a very high amperage output potential, allowing the team to use more powerful motors. 
 
 ## Motor
 
@@ -54,9 +54,9 @@ Choice: Option 3. Pololu 4798 Brushed Gearmotorfrom the alternative motor option
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| Option 1. KS-0930 9V<br>$15.42 Each<br>[Link to Product](/https://www.amazon.com/9V-Adapter-Charger-HD500X-Supply/dp/B07G282CBQ/ref=sr_1_3?c=ts&keywords=AC+Adapters&m=A33NHAKGS6YV9K&qid=1669658808&refinements=p_6%3AA33NHAKGS6YV9K&s=electronics&sr=1-3&ts_id=10967101) | *Continuous source of 12V<br>*No need to replace components over time<br>*Outputs up to 3 Amps | *Requires a direct connection<br>*Wired connection can be tedious to manage<br>*Limits portability of design |
+| Option 1. GSM36U12-P1J<br>$20.20 Each<br>[Link to Product](https://www.digikey.com/en/products/detail/mean-well-usa-inc./GSM36U12-P1J/7703544?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29_NEW&utm_term=&utm_content=AC%20DC%20Desktop%2C%20Wall%20Adapters&gclid=Cj0KCQiAorKfBhC0ARIsAHDzsluGIUD1bnuHfUYoWT965rR30j1H4i-8diDKktkW-ko1YF1rsKBDN98aAvoIEALw_wcB) | *Continuous source of 12V<br>*No need to replace components over time<br>*Outputs up to 3 Amps | *Requires a direct connection<br>*Wired connection can be tedious to manage<br>*Limits portability of design |
 | Option 2. EN22<br>$2.59/each<br>[Link to product](/https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825) | *Affordable<br>*Can withstand high temperatures<br>*Many in stock (digikey) | *Unstable<br>*Output voltage dips from 9V to 5V after a day of use (Constant Output) |
-| Option 3. A 1604 BK210J<br>$2.16/each<br>[Link to product](/https://www.digikey.com/en/products/detail/energizer-battery-company/A1604-BK210J/11615674) | *Affordable<br>*Highest max power | *Expensive<br>*Few in stock<br>*Highest minimum current and voltage requirements |
+| Option 3. WSU120-1000<br>$13.89/each<br>[Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WSU120-1000/3094981?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29_NEW&utm_term=&utm_content=AC%20DC%20Desktop%2C%20Wall%20Adapters&gclid=Cj0KCQiAo-yfBhD_ARIsANr56g5ZdsC5GU4-hMFXJSEWiwOSsTKAzypLfcu2jUbFl-nmYrALiw3usm0aArzvEALw_wcB) | *Affordable<br>*12 V output<br>*No need of replacement<br> | *1 Amp output<br>* Limits portability<br>* Power: 12 W<br> |
 
 Choice: Option 1
 
@@ -68,7 +68,7 @@ Rationale: The team opted to use the AC/DC 12V power supply due to its ease of u
 | :---: | --- | ---|
 | Option 1. MIC5156-5.0YM<br>$4.04 Each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/MIC5156-5-0YM/1030138) | *Input: 3 - 36V<br>*Surface Mount<br>*Affordable<br>*Positive fixed | *Few in stock |
 | Option 2. RT9194GE<br>$0.68/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9194GE/2546985) | *Cheap<br>*Surface Mount<br>*Input: 4.5 - 13.5V | *Positive Adjustable |
-| Option 3. LT1575CS8-3.3#PBF<br>$7.44/each<br>[Link to Product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CS8-3-3-PBF/889248) | *Surface Mount<br>*Input: 10 - 20V<br>*Positive fixed | *Most Expensive<br>*Few in Stock |
+| Option 3. LM2575D2T-3.3R4G<br>$2.37/each<br>[Link to Product](https://www.mouser.com/ProductDetail/onsemi/LM2575D2T-3.3R4G?qs=2OtswVQKCOFhf1pTPfoNzA%3D%3D) | *Surface Mount<br>*Switching Voltage Regulator<br>*Input: 4.75 - 40V<br>*3.3V output | * |
 
 Choice: Option 1
 
