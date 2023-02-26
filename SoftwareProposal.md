@@ -1,11 +1,11 @@
 ---
-Title: Block Diagram
+Title: Software Proposal
 ---
 
-## Block Diagram
+## Software Proposal
 
-![image caption]([https://imgur.com/a/DUwhyDn](https://discord.com/channels/1062096005992034424/1062096006642147503/1079524948172869683))
+![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079524947946381412/image.png)
 
-[Appendix G: Block Diagram](AppendixG_SoftwareProposal.md)
+[Back to AppendixH_Software Proposal](AppendixH_SoftwareProposal.md)
 
 [Back to Project Overview](index.md)
