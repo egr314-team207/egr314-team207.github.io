@@ -6,7 +6,7 @@ Title: Component Selection
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
+| Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby mode<br>*I2C output | *Small and difficult to solder<br>*2 degree accuracy |
 | Option 2. TMP126DCKR<br>$3.01/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126DCKR/16602359struments/TMP236A4DCKT/9692559) | *Digital output<br>Range: -55 - 175 C<br>*Voltage: 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.3 degree accuracy<br>*Surface mount | *Expensive compared to others<br>*Voltage Output |
 | Option 3. TMP126NDCKR<br>$2.03 /each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126NDCKR/16602367) | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br>*SPI output |  |
 
@@ -44,7 +44,7 @@ Rationale: The IFX9201SGAUMA1 offers the most in terms of flexibility and power 
 | :---: | --- | ---|
 | Option 1. Pololu 99:1 Gear motor<br>$48/each<br>[datasheet](/https://www.pololu.com/file/0J1829/pololu-25d-metal-gearmotors.pdf) | *High torque<br>*Wide range of operating voltages<br>*Highly available<br>*Affordable<br>*More precise control | *Encoder adds design complexity<br>*High Power Requirements |
 | Option 2. Nidel Copal ROB-09238<br>$19/each<br>[datasheet](/https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf) | *Stepper motor gives more precise control<br>*Affordable<br>*High torque<br>*Available from reputable sources | *Little documentation on this device<br>*Extra complexity due to stepper motor features<br>*High power requirements |
-| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798)ements<br>*Does not have precise motor control options |
+| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798) | *Reputable supplier<br>D*low complexity<br>*affordable<br>*high torque<br>*12V Operating Voltage<br>*Good documentation<br> |*Low features<br>*High power requirements<br>*Does not have precise motor control options |
 
 Rationale: For the purposes of the team’s design, the added complexity and precision 
 
@@ -56,11 +56,11 @@ Choice: Option 3. Pololu 4798 Brushed Gearmotorfrom the alternative motor option
 | :---: | --- | ---|
 | Option 1. GSM36U12-P1J<br>$20.20 Each<br>[Link to Product](https://www.digikey.com/en/products/detail/mean-well-usa-inc./GSM36U12-P1J/7703544?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29_NEW&utm_term=&utm_content=AC%20DC%20Desktop%2C%20Wall%20Adapters&gclid=Cj0KCQiAorKfBhC0ARIsAHDzsluGIUD1bnuHfUYoWT965rR30j1H4i-8diDKktkW-ko1YF1rsKBDN98aAvoIEALw_wcB) | *Continuous source of 12V<br>*No need to replace components over time<br>*Outputs up to 3 Amps | *Requires a direct connection<br>*Wired connection can be tedious to manage<br>*Limits portability of design |
 | Option 2. EN22<br>$2.59/each<br>[Link to product](/https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825) | *Affordable<br>*Can withstand high temperatures<br>*Many in stock (digikey) | *Unstable<br>*Output voltage dips from 9V to 5V after a day of use (Constant Output) |
-| Option 3. WSU120-1000<br>$13.89/each<br>[Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WSU120-1000/3094981?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29_NEW&utm_term=&utm_content=AC%20DC%20Desktop%2C%20Wall%20Adapters&gclid=Cj0KCQiAo-yfBhD_ARIsANr56g5ZdsC5GU4-hMFXJSEWiwOSsTKAzypLfcu2jUbFl-nmYrALiw3usm0aArzvEALw_wcB) | *Affordable<br>*12 V output<br>*No need of replacement<br> | *1 Amp output<br>* Limits portability<br>* Power: 12 W<br> |
+| Option 3. WSU120-1000<br>$13.89/each<br>[Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WSU120-1000/3094981?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29_NEW&utm_term=&utm_content=AC%20DC%20Desktop%2C%20Wall%20Adapters&gclid=Cj0KCQiAo-yfBhD_ARIsANr56g5ZdsC5GU4-hMFXJSEWiwOSsTKAzypLfcu2jUbFl-nmYrALiw3usm0aArzvEALw_wcB) | *Affordable<br>*12 V output<br>*No need of replacement<br> | *1 Amp output<br> *Limits portability<br>*Power: 12 W<br> |
 
 Choice: Option 1
 
-Rationale: The team opted to use the AC/DC 12V power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
+Rationale: The team opted to use the GSM36U12-P1J power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
 
 ## Voltage Regulator
 
@@ -68,7 +68,7 @@ Rationale: The team opted to use the AC/DC 12V power supply due to its ease of u
 | :---: | --- | ---|
 | Option 1. MIC5156-5.0YM<br>$4.04 Each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/MIC5156-5-0YM/1030138) | *Input: 3 - 36V<br>*Surface Mount<br>*Affordable<br>*Positive fixed | *Few in stock |
 | Option 2. RT9194GE<br>$0.68/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9194GE/2546985) | *Cheap<br>*Surface Mount<br>*Input: 4.5 - 13.5V | *Positive Adjustable |
-| Option 3. LM2575D2T-3.3R4G<br>$2.37/each<br>[Link to Product](https://www.mouser.com/ProductDetail/onsemi/LM2575D2T-3.3R4G?qs=2OtswVQKCOFhf1pTPfoNzA%3D%3D) | *Surface Mount<br>*Switching Voltage Regulator<br>*Input: 4.75 - 40V<br>*3.3V output | * |
+| Option 3. LM2575D2T-3.3R4G<br>$2.37/each<br>[Link to Product](https://www.mouser.com/ProductDetail/onsemi/LM2575D2T-3.3R4G?qs=2OtswVQKCOFhf1pTPfoNzA%3D%3D) | *Surface Mount<br>*Switching Voltage Regulator<br>*Input: 4.75 - 40V<br>*3.3V output |  |
 
 Choice: Option 1
 
