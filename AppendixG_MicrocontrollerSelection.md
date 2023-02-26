@@ -47,4 +47,6 @@ Title: Appendix F Microcontroller Selection
 
 Rationale: The PIC18F27K40 Has both I2C and SPI support giving the team the most flexibility for sensors. The PIC also has a large amount of program memory available which will assist during development as less time will be spent optimizing for storage space. This PIC is also available in both Through hole and Surface mount from microchip currently. The PIC also has a development board available for it giving the team more options for development of the team's software. This PIC is also supported in MCC Melody. There are also many application notes about using the PIC on the Microchip website. 
 
+[Back to Microcontroller Selection](MicrocontrollerSelection.md)
+
 [Back to Project Overview](index.md)
