@@ -5,6 +5,7 @@ Title: Component Selection
 ## Temperature Sensor Module
 
 The team selected the TC74A4-3.3VCTTR to use for our temperature sensor. We selected this because it meets the course requirements for a serial sensor. This sensor uses I2C and has an address of 1001101b which is compatible with the other I2C sensor we are planning on using. In addition to these factors this sensor was used earlier in the class which is beneficial to the team as it means the team has some experience with it and it will be easier to get help from the teaching team if we run into issues during the development process. The datasheet can be found [here](https://www.digikey.com/en/htmldatasheets/production/48489/0/0/1/tc74.html) and purchasing information is [here](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) 
+![image caption](https://media.digikey.com/Renders/Microchip%20Tech%20Renders/150~C04-091~CT,%20OT~5.JPG)
 
 ## Hall Effect Sensor
 
