@@ -39,11 +39,11 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 # External Links
 
-[Team Orginization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4)
+[Team Organization](https://docs.google.com/document/d/1zvjxT0mUPsxpsUikL3fo2RUGiMzdoE-Koxl9A7i0Ph4/edit?usp=sharing)
 
-[User Needs,Benchmarking,Requirements](https://docs.google.com/document/d/1Q-Mk1Iff0SsWfN9Rt0p_gPa4DlcKJiR9xMkjAW__YpM)
+[User Needs,Benchmarking,Requirements](https://docs.google.com/document/d/1Q-Mk1Iff0SsWfN9Rt0p_gPa4DlcKJiR9xMkjAW__YpM/edit?usp=sharing)
 
-[Design Ideation](https://docs.google.com/document/d/1Em7D-Jp007Hy9gsVuGirWoKYb_hOZ6e2Eb4pvV0lgSc)
+[Design Ideation](https://docs.google.com/document/d/1Em7D-Jp007Hy9gsVuGirWoKYb_hOZ6e2Eb4pvV0lgSc/edit?usp=sharing)
 
 [Presentation 1](https://youtu.be/MT873-ksjp0)
 
