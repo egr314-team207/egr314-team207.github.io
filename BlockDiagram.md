@@ -4,11 +4,11 @@ Title: Block Diagram
 
 ## Block Diagram
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079534848726794290/image.png)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085064824175738880/207BlockDiagram.drawio_2.png)
 
 ## Verification Table
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079535103413325824/image.png)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085066367583141909/image.png)
 
 [Appendix D: Block Diagram](AppendixD_BlockDiagram.md)
 

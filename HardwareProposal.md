@@ -4,9 +4,9 @@ Title: Hardware Proposal
 
 ## Hardware Proposal
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079521786380681256/image.png?width=1228&height=904)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085067329387380746/image.png)
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079521833122009180/image.png?width=1231&height=904)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085067433326411836/image.png)
 
 [Back to Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
 
