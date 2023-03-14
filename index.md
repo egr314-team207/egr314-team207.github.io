@@ -66,16 +66,14 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 [Appendix B: User Needs, Benchmarking, and Requirments](/AppendixB_UserNeeds_Benchmarking_Requirments.md) 
 
-[Appendix C: Design Ideation](AppendixC_DesignIdeation.md)
+[Appendix C: Selected Design](AppendixC_SelectedDesign.md)
 
-[Appendix D: Selected Design](AppendixD_SelectedDesign.md)
+[Appendix D: Block Diagram](AppendixD_BlockDiagram.md)
 
-[Appendix E: Block Diagram](AppendixE_BlockDiagram.md)
+[Appendix E: Component Selection](AppendixE_ComponentSelection.md)
 
-[Appendix F: Component Selection](AppendixF_ComponentSelection.md)
+[Appendix F: Microcontroller Selection](AppendixF_MicrocontrollerSelection.md)
 
-[Appendix G: Microcontroller Selection](AppendixD_MicrocontrollerSelection.md)
+[Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
 
-[Appendix H: Hardware Proposal](AppendixH_HardwareProposal.md)
-
-[Appendix I: Software Proposal](AppendixI_SoftwareProposal.md)
+[Appendix H: Software Proposal](AppendixH_SoftwareProposal.md)
