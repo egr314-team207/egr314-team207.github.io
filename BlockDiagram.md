@@ -10,6 +10,6 @@ Title: Block Diagram
 
 ![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079535103413325824/image.png)
 
-[Appendix E: Block Diagram](AppendixE_BlockDiagram.md)
+[Appendix D: Block Diagram](AppendixD_BlockDiagram.md)
 
 [Back to Project Overview](index.md)
