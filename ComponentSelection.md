@@ -43,6 +43,6 @@ Due to requirements for the course project the team needed to select a switching
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1079540354677756045/image.png)
 
-[Appendix F: Component Selection](AppendixF_ComponentSelection.md)
+[Appendix E: Component Selection](AppendixE_ComponentSelection.md)
 
 [Back to Project Overview](index.md)
