@@ -8,6 +8,6 @@ Title: Hardware Proposal
 
 ![image caption](https://media.discordapp.net/attachments/1062096006642147503/1079521833122009180/image.png?width=1231&height=904)
 
-[Back to Appendix H: Hardware Proposal](AppendixH_HardwareProposal.md)
+[Back to Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
 
 [Back to Project Overview](index.md)
