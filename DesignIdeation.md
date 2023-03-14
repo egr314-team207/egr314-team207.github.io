@@ -20,11 +20,11 @@ Once the list of 100 total concepts was complete, the team went through the proc
 
 Three of our team members used the design ideas to generate rough design sketches of the proposed designs. Each sketch had core features highlighted as a means to showcase how those designs met the expectations of both the course as well as the design proposal itself. 
 
-Concept Designed by Stefano Greco
+#Concept Designed by Stefano Greco
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1066029769042448464/image.png)
-Concept Designed by Daymon Wilkins
+#Concept Designed by Daymon Wilkins
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1066078297475256391/image.png)
-Concept Designed by Ragde Chaira
+#Concept Designed by Ragde Chaira
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1066105512594255964/EGR_314_no_cover.png)
 
 ### Refer to appendix below for images of each stage of design ideation
