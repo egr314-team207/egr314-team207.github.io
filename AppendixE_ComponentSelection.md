@@ -66,9 +66,9 @@ Rationale: The team opted to use the AC/DC 12V power supply due to its ease of u
 
 | Solutions     | Pros          | Cons  |
 | :---: | --- | ---|
-| Option 1. MIC5156-5.0YM<br>$4.04 Each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/MIC5156-5-0YM/1030138) | *Input: 3 - 36V<br>*Surface Mount<br>*Affordable<br>*Positive fixed | *Few in stock |
-| Option 2. RT9194GE<br>$0.68/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9194GE/2546985) | *Cheap<br>*Surface Mount<br>*Input: 4.5 - 13.5V | *Positive Adjustable |
-| Option 3. LT1575CS8-3.3#PBF<br>$7.44/each<br>[Link to Product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CS8-3-3-PBF/889248) | *Surface Mount<br>*Input: 10 - 20V<br>*Positive fixed | *Most Expensive<br>*Few in Stock |
+| Option 1. MIC5156-5.0YM<br>$4.04 Each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/MIC5156-5-0YM/1030138) | *Input: 3 - 36V<br> *Surface Mount<br> *Affordable<br> *Positive fixed | *Few in stock |
+| Option 2. RT9194GE<br>$0.68/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9194GE/2546985) | *Cheap<br> *Surface Mount<br> *Input: 4.5 - 13.5V | *Positive Adjustable |
+| Option 3. LT1575CS8-3.3#PBF<br>$7.44/each<br>[Link to Product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CS8-3-3-PBF/889248) | *Surface Mount<br> *Input: 10 - 20V<br> *Positive fixed | *Most Expensive<br> *Few in Stock |
 
 Choice: Option 1 -  MIC5156-5.0YM
 
