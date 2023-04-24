@@ -4,9 +4,9 @@ Title: Selected Design
 
 ## Selected Design
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1066076495426113576/image.png?width=1160&height=904)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1100150616283680929/EGR_314_MODEL_OPEN.PNG)
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1066078297475256391/image.png?width=1099&height=903)
+![image caption](https://media.discordapp.net/attachments/1062096006642147503/1100150616757645352/EGR_314_MODEL.JPG?width=1098&height=662)
 
 [Back to Selected Design](SelectedDesign.md)
 
