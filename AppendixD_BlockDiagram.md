@@ -4,7 +4,7 @@ Title: Block Diagram
 
 ## Block Diagram
 
-![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085064824175738880/207BlockDiagram.drawio_2.png)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1100152834462322699/Block_diagram.JPG)
 
 ## Verification Table
 
