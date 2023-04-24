@@ -38,7 +38,7 @@ Title: Appendix F Microcontroller Selection
 
 ## Microcontrollers pros and cons
 | --- | --- | --- | --- |
-| --- | :---: | :---: | :---: |
+| --- | :PIC18F26K40: | :PIC18F27J53: | :PIC18F27K40: |
 | Overall Pros | Low Power<br><br>In Circuit Debug | Large memory<br><br>Sleep mode | Large memory<br><br>Low Power |
 | Overall Cons | Less memory which may cause issues while developing code<br><br>Higher Voltage Requirement | High unit cost for functionality that is not useful for project <br><br>Missing features that might help with debugging the code | Support for many features may make debugging more difficult<br><br>Currently Available PDIP and Surface mount parts have different voltage ranges |
 | Ranking | 2 | 3 | 1 |
