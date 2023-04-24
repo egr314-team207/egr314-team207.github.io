@@ -8,7 +8,7 @@ Title: Appendix E Component Selection
 | :---: | --- | ---|
 | Option 1. TC74A4-3.3VCTTR<br>$1.09/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) | *Surface Mount<br>*Cheap<br>*Range: -40 to 125 C<br>*Digital output<br>*Voltage: 2.7 to 5.5 V<br>*Standby modeI2C output | *Small and difficult to solder<br>*2 degree accuracy |
 | Option 2. TMP126DCKR<br>$3.01/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126DCKR/16602359struments/TMP236A4DCKT/9692559) | *Digital output<br>Range: -55 - 175 C<br>*Voltage: 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.3 degree accuracy<br>*Surface mount | *Expensive compared to others<br>*Voltage Output |
-| Option 3. TMP126NDCKR<br>$2.03 /each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126NDCKR/16602367) | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br>*SPI output | *Output type: SPI <br>* |
+| Option 3. TMP126NDCKR<br>$2.03 /each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126NDCKR/16602367) | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br>*SPI output |  |
 
 Choice: Option 1
 
@@ -44,11 +44,11 @@ Rationale: The L9958 offers the most in terms of flexibility and power controls 
 | :---: | --- | ---|
 | Option 1. Pololu 99:1 Gear motor<br>$48/each<br>[datasheet](/https://www.pololu.com/file/0J1829/pololu-25d-metal-gearmotors.pdf) | *High torque<br>*Wide range of operating voltages<br>*Highly available<br>*Affordable<br>*More precise control | *Encoder adds design complexity<br>*High Power Requirements |
 | Option 2. Nidel Copal ROB-09238<br>$19/each<br>[datasheet](/https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf) | *Stepper motor gives more precise control<br>*Affordable<br>*High torque<br>*Available from reputable sources | *Little documentation on this device<br>*Extra complexity due to stepper motor features<br>*High power requirements |
-| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798)ements<br>*Does not have precise motor control options |
+| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798)ements<br>*Does not have precise motor control options | *Reputable supplier<br>*Low complexity<br>*Affordable<br>*High Torque<br>*12V Operating Voltage<br>*Good documentation | *Low features<br>*High power<br>*requirements |
 
-Rationale: For the purposes of the team’s design, the added complexity and precision 
+Choice: Option 3. 
 
-Choice: Option 3. Pololu 4798 Brushed Gearmotorfrom the alternative motor options is not necessary. This motor fits the needs of the design as a high torque motor, and is both affordable and in high availability.
+Rationale: Pololu 4798 Brushed Gearmotorfrom the alternative motor options is not necessary. This motor fits the needs of the design as a high torque motor, and is both affordable and in high availability.
 
 ## Power Source
 
