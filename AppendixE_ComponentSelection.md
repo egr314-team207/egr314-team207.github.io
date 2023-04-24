@@ -44,7 +44,7 @@ Rationale: The L9958 offers the most in terms of flexibility and power controls 
 | :---: | --- | ---|
 | Option 1. Pololu 99:1 Gear motor<br>$48/each<br>[datasheet](/https://www.pololu.com/file/0J1829/pololu-25d-metal-gearmotors.pdf) | *High torque<br>*Wide range of operating voltages<br>*Highly available<br>*Affordable<br>*More precise control | *Encoder adds design complexity<br>*High Power Requirements |
 | Option 2. Nidel Copal ROB-09238<br>$19/each<br>[datasheet](/https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf) | *Stepper motor gives more precise control<br>*Affordable<br>*High torque<br>*Available from reputable sources | *Little documentation on this device<br>*Extra complexity due to stepper motor features<br>*High power requirements |
-| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798)ements<br>*Does not have precise motor control options | *Reputable supplier<br>*Low complexity<br>*Affordable<br>*High Torque<br>*12V Operating Voltage<br>*Good documentation | *Low features<br>*High power<br>*requirements |
+| Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798) | *Reputable supplier<br>*Low complexity<br>*Affordable<br>*High Torque<br>*12V Operating Voltage<br>*Good documentation | *Low features<br>*High power<br>*requirements |
 
 Choice: Option 3 - Pololu 4798
 
