@@ -10,7 +10,7 @@ Title: Appendix E Component Selection
 | Option 2. TMP126DCKR<br>$3.01/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126DCKR/16602359struments/TMP236A4DCKT/9692559) | *Digital output<br>Range: -55 - 175 C<br>*Voltage: 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.3 degree accuracy<br>*Surface mount | *Expensive compared to others<br>*Voltage Output |
 | Option 3. TMP126NDCKR<br>$2.03 /each<br>[Link to Product](/https://www.digikey.com/en/products/detail/texas-instruments/TMP126NDCKR/16602367) | *Digital Output<br>*Range: -55 - 150 C<br>*Voltage 1.62 - 5.5 V<br>*One-shot, Shutdown mode, Sleep mode<br>*.8 degree Accuracy<br> | *Output Type: SPI |
 
-Choice: Option 1
+Choice: Option 1 - TC74A4-3.3VCTTR
 
 Rationale: One reason why we choose this sensor is because of the output type, we need either SPI or I2C. In addition to this, we will be working with Option 1 in class, this will make it easier on the team to apply this sensor to our product.
 
@@ -46,7 +46,7 @@ Rationale: The L9958 offers the most in terms of flexibility and power controls 
 | Option 2. Nidel Copal ROB-09238<br>$19/each<br>[datasheet](/https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf) | *Stepper motor gives more precise control<br>*Affordable<br>*High torque<br>*Available from reputable sources | *Little documentation on this device<br>*Extra complexity due to stepper motor features<br>*High power requirements |
 | Option 3. Pololu 4798 Brushed Gearmotor<br>$22/each<br>[datasheet](/https://www.pololu.com/product-info-merged/4798)ements<br>*Does not have precise motor control options | *Reputable supplier<br>*Low complexity<br>*Affordable<br>*High Torque<br>*12V Operating Voltage<br>*Good documentation | *Low features<br>*High power<br>*requirements |
 
-Choice: Option 3. 
+Choice: Option 3 - Pololu 4798
 
 Rationale: Pololu 4798 Brushed Gearmotorfrom the alternative motor options is not necessary. This motor fits the needs of the design as a high torque motor, and is both affordable and in high availability.
 
@@ -58,7 +58,7 @@ Rationale: Pololu 4798 Brushed Gearmotorfrom the alternative motor options is no
 | Option 2. EN22<br>$2.59/each<br>[Link to product](/https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825) | *Affordable<br>*Can withstand high temperatures<br>*Many in stock (digikey) | *Unstable<br>*Output voltage dips from 9V to 5V after a day of use (Constant Output) |
 | Option 3. A 1604 BK210J<br>$2.16/each<br>[Link to product](/https://www.digikey.com/en/products/detail/energizer-battery-company/A1604-BK210J/11615674) | *Affordable<br>*Highest max power | *Expensive<br>*Few in stock<br>*Highest minimum current and voltage requirements |
 
-Choice: Option 1
+Choice: Option 1 - KS-0930 9V
 
 Rationale: The team opted to use the AC/DC 12V power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
 
@@ -70,7 +70,7 @@ Rationale: The team opted to use the AC/DC 12V power supply due to its ease of u
 | Option 2. RT9194GE<br>$0.68/each<br>[Link to Product](/https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9194GE/2546985) | *Cheap<br>*Surface Mount<br>*Input: 4.5 - 13.5V | *Positive Adjustable |
 | Option 3. LT1575CS8-3.3#PBF<br>$7.44/each<br>[Link to Product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CS8-3-3-PBF/889248) | *Surface Mount<br>*Input: 10 - 20V<br>*Positive fixed | *Most Expensive<br>*Few in Stock |
 
-Choice: Option 1
+Choice: Option 1 -  MIC5156-5.0YM
 
 Rationale: Option 1 has a wide voltage input which would work for our components and is available for an affordable price. By being a positive fixed type we will avoid having to use external components.
 
