@@ -4,7 +4,7 @@ Title: Software Proposal
 
 ## Software Proposal
 
-![image caption](https://media.discordapp.net/attachments/1062096006642147503/1100162842767933530/Software_Proposal.drawio.JPG?width=1370&height=896)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1100165876713529494/Software_Proposal.drawio.JPG)
 
 [Back to Software Proposal](SoftwareProposal.md)
 
