@@ -78,4 +78,5 @@ Rationale: Option 1 has a wide voltage input which would work for our components
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1079540354677756045/image.png)
 
 [Back to Component Selection](ComponentSelection.md)
+
 [Back to Project Overview](index.md)
