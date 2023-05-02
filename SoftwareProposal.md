@@ -13,10 +13,15 @@ Title: Software Proposal
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1100165876713529494/Software_Proposal.drawio.JPG)
 
-## 5 Biggest Changes:
+## Biggest Changes:
 
 1) Implimented Interrupts into how the motor will be controlled
 2) Made it so hall effect sensor and temp sensor are on a constant loop to constantly read values
+
+## Improvements:
+
+* Impliment sensors to control far the motor extends and retracts
+* Made the hall effect sensor change the motor on higher Rev/min
 
 [Back to Appendix H: Software Proposal](AppendixH_SoftwareProposal.md)
 
