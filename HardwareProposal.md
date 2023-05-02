@@ -22,6 +22,6 @@ Title: Hardware Implementation
 
 [Appendix G: Final Hardware Implementation](AppendixG_HardwareProposal.md)
 
-[Back to Appendix I: Bill Of Materials](AppendixI_BillOfMaterials.md)
+[Appendix I: Bill Of Materials](AppendixI_BillOfMaterials.md)
 
 [Back to Project Overview](index.md)
