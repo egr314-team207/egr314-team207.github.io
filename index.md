@@ -5,7 +5,7 @@ title: EGR 314 Project
 # Team 207 
 ## Members:  Radge Chaira, Stefano Greco, Hector Peralta, Daymon Wilkins
 
-Prepared on March 13, 2023
+Prepared on May 1, 2023
 
 ## Professor: Daniel Aukes
 ![image caption](https://upload.wikimedia.org/wikipedia/en/d/d0/Ira_A._Fulton_Schools_of_Engineering_at_Arizona_State_University_logo.png)
@@ -36,6 +36,8 @@ Our team has been tasked with a solution to counteract environmental conditions 
 ## [Hardware Proposal](/HardwareProposal.md)
 
 ## [Software Proposal](/SoftwareProposal.md)
+
+## [Lessons Learned and Future Recomendations](/LessonsLearned.md)
 
 # External Links
 
