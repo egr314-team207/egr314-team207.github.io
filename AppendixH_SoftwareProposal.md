@@ -5,9 +5,11 @@ Title: Appendix H Software Implementation
 ## Appendix H: Final Software Implementation
 
 MQTT Topic Table
+
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102845523557351454/image.png)
 
 MCC Configuration
+
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102845136242741248/image.png)
 
 C++ Code
