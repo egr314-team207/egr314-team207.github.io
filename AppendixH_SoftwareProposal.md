@@ -13,6 +13,7 @@ MCC Configuration
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102845136242741248/image.png)
 
 C++ Code
+
 Full code can be found at our team's [Github Repository](https://github.com/egr314-team207/Embeded-Code)
 ```
 // Definitions 
