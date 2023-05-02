@@ -16,7 +16,7 @@ Title: Software Proposal
 ## 5 Biggest Changes:
 
 1) Implimented Interrupts into how the motor will be controlled
-2) 
+2) Made it so hall effect sensor and temp sensor are on a constant loop to constantly read values
 
 [Back to Appendix H: Software Proposal](AppendixH_SoftwareProposal.md)
 
