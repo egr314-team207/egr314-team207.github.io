@@ -33,9 +33,9 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 ## [Microcontroller Selection](/MicrocontrollerSelection.md)
 
-## [Hardware Proposal](/HardwareProposal.md)
+## [Final Hardware Implementation](/HardwareProposal.md)
 
-## [Software Proposal](/SoftwareProposal.md)
+## [Final Software Implementation](/SoftwareProposal.md)
 
 ## [Lessons Learned and Future Recomendations](/LessonsLearned.md)
 
