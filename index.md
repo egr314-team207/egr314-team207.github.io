@@ -78,6 +78,6 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 [Appendix F: Microcontroller Selection](AppendixF_MicrocontrollerSelection.md)
 
-[Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
+[Appendix G: Final Hardware Implementation](AppendixG_HardwareProposal.md)
 
-[Appendix H: Software Proposal](AppendixH_SoftwareProposal.md)
+[Appendix H: Final Software Implementation](AppendixH_SoftwareProposal.md)
