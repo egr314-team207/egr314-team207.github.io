@@ -81,3 +81,7 @@ Our team has been tasked with a solution to counteract environmental conditions 
 [Appendix G: Final Hardware Implementation](AppendixG_HardwareProposal.md)
 
 [Appendix H: Final Software Implementation](AppendixH_SoftwareProposal.md)
+
+[Appendix I: Bill Of Materials](AppendixI_BillOfMaterials.md)
+
+
