@@ -1,12 +1,24 @@
 ---
-Title: Hardware Proposal
+Title: Hardware Implementation
 ---
 
-## Hardware Proposal
+## Final Hardware Implementation
 
-![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085067329387380746/image.png)
+# Final Schematic
 
-![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1085067433326411836/image.png)
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102835674320752700/image.png)
+
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102835748207591485/image.png)
+
+# Final PCB Design
+
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102836848470003712/image.png)
+
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102836932104441876/image.png)
+
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102837840435482715/image.png)
+
+![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102837914234257458/image.png)
 
 [Back to Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
 
