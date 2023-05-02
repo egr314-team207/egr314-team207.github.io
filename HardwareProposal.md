@@ -24,6 +24,10 @@ Once the schematic was completed, we had to think where we wanted each component
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102837914234257458/image.png)
 
+# Improvements
+
+We made many imporvents from the Alpha board to the final PCB. Some of these imprivents were using both sudes of the PCB, adding vias, increasing the and thickness of the traces. All these imporovemnts were essential to have a funtioning board that could be implemented into our prototype. If we were to make a version 2 of the board, we could make a breaout board for the sensors, this would make impleneting the PCB into a prortype deign easier and cleaner. By having a breakout board, we could find a better spot for the sensors to be more accurate and easier to reach.
+
 [Appendix G: Final Hardware Implementation](AppendixG_HardwareProposal.md)
 
 [Appendix I: Bill Of Materials](AppendixI_BillOfMaterials.md)
