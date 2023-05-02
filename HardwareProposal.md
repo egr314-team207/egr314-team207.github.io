@@ -20,6 +20,6 @@ Title: Hardware Implementation
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102837914234257458/image.png)
 
-[Back to Appendix G: Hardware Proposal](AppendixG_HardwareProposal.md)
+[Appendix G: Final Hardware Implementation](AppendixG_HardwareProposal.md)
 
 [Back to Project Overview](index.md)
