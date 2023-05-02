@@ -13,6 +13,11 @@ Title: Software Proposal
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1100165876713529494/Software_Proposal.drawio.JPG)
 
+# 5 Biggest Changes:
+
+1) Implimented Interrupts into how the motor will be controlled
+2) 
+
 [Back to Appendix H: Software Proposal](AppendixH_SoftwareProposal.md)
 
 [Back to Project Overview](index.md)
