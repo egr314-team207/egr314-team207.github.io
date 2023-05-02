@@ -4,6 +4,8 @@ Title: Hardware Implementation
 
 ## Final Hardware Implementation
 
+In the schematic below we can see how all the subsystems are connected to each other. The PIC recieves power from the voltage regualor and is also connected to the other subsystems (temperature sensor, motor driver, and hall effect sensor). We have header pins and other compoents to make these connections possible and with the power and voltage requiered for each part.
+
 # Final Schematic
 
 ![image caption](https://cdn.discordapp.com/attachments/1062096006642147503/1102835674320752700/image.png)
