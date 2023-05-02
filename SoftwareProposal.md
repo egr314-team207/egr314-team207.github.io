@@ -17,6 +17,7 @@ Title: Software Proposal
 
 1) Implimented Interrupts into how the motor will be controlled
 2) Made it so hall effect sensor and temp sensor are on a constant loop to constantly read values
+3) Edited how systems being initialized
 
 ## Improvements:
 
