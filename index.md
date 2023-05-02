@@ -37,6 +37,8 @@ Our team has been tasked with a solution to counteract environmental conditions 
 
 ## [Final Software Implementation](/SoftwareProposal.md)
 
+## [System Verification Table](/SystemVerification.md)
+
 ## [Lessons Learned and Future Recomendations](/LessonsLearned.md)
 
 # External Links
